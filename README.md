@@ -6,6 +6,14 @@ In this handbook you will find useful information that will help you get started
 
 ##About mondora
 
+###Our purpose
+
+As a Benefit Corporation the company intends to pursue the principles of equality, fraternity and legality, in order to favour an ecosystem between nature, humans (especially in the personal sphere), shareholders, stakeholders and, more generally, the local community and all the parts that are influenced by the company’s activities in any way. Special attention is given to the production of benefit for the local agricultural community of Valtellina, to favour the evolution of the primary sector as an advantage for society.
+
+In virtue of the principles of benefit, the company’s objectives include the following activities:
+support the organizations that operate in the field of technology, science, industry, economics and finance and aid them in the adoption and proficuous use of innovative technologies and methodologies in the field of software and, more generally, of Information Technology and organization.
+
+
 ###Our mission
 
 The mission of mondora.com is to actively promote people before technology in the field of Information Technology. Our goal is to inspire - through technology and processes - customers and people to do no more than what is essential for their business, and to spend their money on something different. Inside the company we promote a different approach to life, by helping people to mitigate stress with a relaxed lifestyle, which includes moonlighting. The company is self managed and implements self organisation to promote the individual responsibilities of each player.
@@ -19,7 +27,7 @@ Where, when and how we work - the ultimate getting started guide!
 
 ###Our offices
 
-Our head office is located in Milan, Via Cornalia 7. However, this is only for legal purposes and no one works here. Our main working office is in Cosio Valtellino, Via Nazionale 11. Here we have two open space areas with large desks, a separate meeting room and a fully equipped kitchen. We have recently acquired a new location in Pedemonte, a large old house which will become our localhost (you can find out more by asking your colleagues) and we hope to move here by 2017.
+Our head office is located in Milan, Via Umberto Visconti di Modrone 33. However, this is only for legal purposes and no one works here. Our main working office is in Cosio Valtellino, Via Nazionale 11. Here we have two open space areas with large desks, a separate meeting room and a fully equipped kitchen. We have recently acquired a new location in Pedemonte, a large old house which will become our localhost (you can find out more by asking your colleagues) and we hope to move here by 2017.
 
 We have a free seating policy, so every day when you arrive you can decide where to sit and work. There are “normal” desks, high desks, chairs, stools, gym balls and a couch to choose from. Take your pick! If you have a group call or a meeting, please use the meeting room so as not to disturb colleagues working on different projects from yours.
 
@@ -33,7 +41,7 @@ As well as the office, we have other places where we occasionally work from. Som
 
 Here at mondora we give you the opportunity to work from home. Some of our colleagues live very far from the office, and so work from home most days. Others normally come to the office, but work from home some days too. The trick is to balance office/home work correctly. 
 We prefer that new employees work from the office every day for as long as they require help and assistance from others. If this is your first job,  you are an apprentice, or are still learning about IT, you should be in the office as much as possible, so you can learn more easily from your colleagues. Once you have the necessary skills to work alone, you are free to work from whichever location you wish. Do keep in mind that the office is not just a work space, but also a place in which people meet, interact, share ideas and have fun… so make sure you don’t miss out on all that’s happening here!
-We currently have employees spread over the Valtellina, Milan, Pavia, Bergamo and Novara. In order to keep in contact and communicate effectively, we use a set of tools, such as Skype, Slack, Google Hangouts, Whatsapp and the seasoned email.  You will learn more about how we use these tools during your first weeks with us. Communication is key! 
+We currently have employees spread over Valtellina, Milan, Pavia, Bergamo and Novara in Italy, as well as Switzerland and Japan. In order to keep in contact and communicate effectively, we use a set of tools, such as Skype, Slack, Google Hangouts, Whatsapp and the seasoned email.  You will learn more about how we use these tools during your first weeks with us. Communication is key! 
 Last but not least...working from home is fine, but remember to physically turn up (on time!) for client meetings! 
 
 ###Working hours
@@ -46,7 +54,7 @@ You are required to be present at client meetings and team meetings. These meeti
 
 When you start working in mondora, you will notice that no one comes along and tells you “today you will be doing this”. You get your mac, you sit down, and you wonder what to do next. Once again, communication is key here. Ask your colleagues what projects they are working on and where help is most needed. Take a look at the current projects and ask to join the one that most interests you. Sometimes you will be asked to join a specific project, but other times it really is up to you.
 
-Whenever there is a new project, this will be published on #openallocation channel. Here you can register your interest for the project and ask to be part of the team if you wish. Keep in mind that most people in mondora work on at least two projects simultaneously (often a main project and one or two side projects), so if something interests you, don’t hold back just because you are already working on something else. If you have a few hours to dedicate to something new, go for it!
+Whenever there is a new project, this will be published on #openallocation channel on Slack. Here you can register your interest for the project and ask to be part of the team if you wish. Keep in mind that most people in mondora work on at least two projects simultaneously (often a main project and one or two side projects), so if something interests you, don’t hold back just because you are already working on something else. If you have a few hours to dedicate to something new, go for it!
 Once you are part of a team and working on a project, you can stay on that project for as long as you like. If the project is very long, and you feel you need a change at some point, you can leave and jump into a new project, provided someone else takes your place, and you discuss the situation with your team first. Project rotation is valued within mondora because it enables you to try out new things and gain new skills on different projects. You will then be able to return to your original project (if you wish) with a fresh view and a greater knowledge base. 
 
 Some of the projects we work on in mondora are opensource, and you can take a single story and implement it in the same way you do for the community. We encourage our colleagues to keep their github account alive and full.
@@ -68,7 +76,7 @@ Everyone in mondora uses Scrum, Kanban, DDD and embraces Agile methodologies. We
 
 ###Challenges
 
-Challenges keep your work interesting and help you come out of your comfort zone and constantly strive to improve. Here at mondora we love a good challenge, and this is why we have set up a list of Objective Key Results that we want to achieve every month. These are not individual, creating competition, but rather goals that the whole team can work towards and achieve together. Good teamwork is essential for coping with these challenges and reaching the desired results. 
+Challenges keep your work interesting and help you come out of your comfort zone and constantly strive to improve. Here at mondora we love a good challenge, and this is why we have set up a list of Objectives and Key Results that we want to achieve every month. These are not individual, creating competition, but rather goals that the whole team can work towards and achieve together. Good teamwork is essential for coping with these challenges and reaching the desired results. 
 
 Our OKRs range from certifications, to analyst meetings, to opensource projects, to environmental goals. There is something for everyone and your colleagues are there to support you in the challenges you wish to attempt. 
 
@@ -85,9 +93,7 @@ As part of our OKRs we have a list of certifications that we would like at least
 
 ###Emerging ideas
 
-Emerging ideas are fully supported and are the future for the company business. If you have an idea, please share it with your colleagues and start working on it. Take a look at this post to find out more about how we value ideas. A good example of an idea that turned into a project is that of please.beer. The project is available here: 
-
-[https://github.com/please-beer/webapp-front]
+Emerging ideas are fully supported and are the future for the company business. If you have an idea, please share it with your colleagues and start working on it. Take a look at this post to find out more about how we value ideas. 
 
 ##Salaries, benefits and leave - here’s what we have to offer
 
