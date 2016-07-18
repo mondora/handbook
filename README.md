@@ -44,6 +44,13 @@ We prefer that new employees work from the office every day for as long as they 
 We currently have employees spread over Valtellina, Milan, Pavia, Bergamo and Novara in Italy, as well as Switzerland and Japan. In order to keep in contact and communicate effectively, we use a set of tools, such as Skype, Slack, Google Hangouts, Whatsapp and the seasoned email.  You will learn more about how we use these tools during your first weeks with us. Communication is key! 
 Last but not least...working from home is fine, but remember to physically turn up (on time!) for client meetings! 
 
+###Environmentally Friendly Workplace
+
+Wherever you choose to work from, it is important that you practice environmental stewardship. In the office we always recycle paper, plastic, glass and compost. We also have a Google Nest intelligent thermostat to help regulate heating and save energy, especially when no one is in the office. Our offices are cleaned with non-toxic products and our whiteboard pens are water based. We are a paper free office, so we have no printers. 
+
+We encourage everyone to follow these practices in their own home too. Here is a list of preferred vendors for any office supplies you may need. For tips and ideas on how to be more eco-friendly check out our Pinterest board “Green Office Ideas”. 
+As for disposal of electronic equipment, all equipment is to be returned to the vendor who is authorized to dispose of it in accordance with the law. You are not to dispose of electronic equipment by yourself. 
+
 ###Working hours
 
 Office hours are very flexible. Most of us start at about 9 am and leave at 6 pm, but it’s really up to you, as long as you are on time for meetings and the rest of the team agrees to your working hours. 
