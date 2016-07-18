@@ -129,7 +129,8 @@ In addition to vacation days, you are allowed 72 hours of paid leave per year. Y
 Other types of paid leave offered at mondora are hours off for attending courses, conferences, and other events that are relevant to mondora. These hours are in addition to the 72 hours of regular leave you have available each year. 
 Hours that you take off one day, but then regain by working overtime the next, do not count as leave hours. Remember to balance your work week correctly. 
 
-Maternity and paternity leave options are available at mondora, and generally follow standard Italian laws. However, if you require further leave over what is determined by law, this can be granted accordingly. We are a B Corporation and value our employees and their needs, so we go beyond standard laws and provide for each individual as best we can!
+Maternity and paternity leave options are available at mondora, and generally follow standard Italian laws. However, if you require further leave over what is determined by law, this will be granted. There is no maximum length to maternity and paternity leave: we are a B Corporation and value our employees and their needs, so we go beyond standard laws and provide for each individual as best we can!
+
 Vacation days and leave hours should first of all be agreed within your team. Also, don’t forget to inform the other teams, using the channel #assenze on Slack. 
 
 ###Work termination - what if I want to leave?
