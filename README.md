@@ -33,7 +33,7 @@ We have a free seating policy, so every day when you arrive you can decide where
 
 The kitchen is for everyone to use, so you can make your own lunch there if you want. In the cupboards and fridge you will find tea, coffee, crackers, fruit, beer, etc. These are for everyone, just take what you want when you want it. If you finish something, make sure you replace it! As we are a B Corporation (more about that later) we mostly consume organic food and drink from the local health store. We suggest to all new employees to follow this healthy example. Oh, and bring your own tea mug (although we have some for guests too).
 
-Being a B corp, we promote healthy and environmentally friendly commuting alternatives. Do you live relatively close to the office? Cycle to work! Do any of your colleagues live close to you? Ask about car-pooling opportunities! Not everyone can follow these guidelines, but if you have the possibility you will gain in health and contribute to making the planet a better place.
+Being a B corp, we promote healthy and environmentally friendly commuting alternatives. Do you live relatively close to the office? Use our programme Cycle2Work! Do any of your colleagues live close to you? Ask about car-pooling opportunities! Not everyone can follow these guidelines, but if you have the possibility you will gain in health and contribute to making the planet a better place.
 
 As well as the office, we have other places where we occasionally work from. Some days we organize an “out of office day” where we work from a mountain refuge or other place. We also have “affiliate” offices, where colleagues have created an office space in their own home, and welcome others to share this space and work together. 
 
