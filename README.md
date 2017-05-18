@@ -27,7 +27,7 @@ Where, when and how we work - the ultimate getting started guide!
 
 ### Our offices
 
-Our head office is located in Milan, Via Umberto Visconti di Modrone 33. However, this is only for legal purposes and no one works here. Our main working office is in Cosio Valtellino, Via Nazionale 11. Here we have two open space areas with large desks, a separate meeting room and a fully equipped kitchen. We have recently acquired a new location in Pedemonte, a large old house which will become our localhost (you can find out more by asking your colleagues) and we hope to move here by 2017.
+Our head office is located in Milan, Via Umberto Visconti di Modrone 33. However, this is only for legal purposes and no one works here. Our main working office is in Cosio Valtellino, Via Nazionale 11. Here we have two open space areas with large desks, a separate meeting room and a fully equipped kitchen. 
 
 We have a free seating policy, so every day when you arrive you can decide where to sit and work. There are “normal” desks, high desks, chairs, stools, gym balls and a couch to choose from. Take your pick! If you have a group call or a meeting, please use the meeting room so as not to disturb colleagues working on different projects from yours.
 
@@ -36,6 +36,15 @@ The kitchen is for everyone to use, so you can make your own lunch there if you 
 Being a B corp, we promote healthy and environmentally friendly commuting alternatives. Do you live relatively close to the office? Use our programme [[Cycle2Work!](https://bcalmbcorp.com/cycle2work-creating-benefit-for-the-community-d64cbd339993)] Do any of your colleagues live close to you? Ask about car-pooling opportunities! Not everyone can follow these guidelines, but if you have the possibility you will gain in health and contribute to making the planet a better place.
 
 As well as the office, we have other places where we occasionally work from. Some days we organize an “out of office day” where we work from a mountain refuge or other place. We also have “affiliate” offices, where colleagues have created an office space in their own home, and welcome others to share this space and work together. 
+
+### Office Guidelines
+
+Our offices are not a place where you come in, sit down, work and go home. They are a place in which to meet people, interact, brainstorm and cocreate. We have whiteboards which we encourage you to use with your team, or with other teams, every week. We would like everyone to come into the office at least a couple of times per week where possible, so that you can share your ideas with your colleagues and learn something new every day. 
+
+Our offices are a place in which we create benefit for others around us, and receive benefit from them. They are a place in which to engage in meaningful conversations and debates, work together on specific tasks, master new skills and teach somethinhg to others. 
+
+The open space setting is a conscious choice made to promote and encourage collaboration and cocreation. Please remember to respect your colleagues at all times when working in this setting. If you have a call or a meeting, book and use the meeting room. If you want to ask someone a question, walk to their desk and talk to them, don't shout across the room. Keep your voice low when collaborating with others and remember to schedule a time for brainstorming or knowledge sharing so everyone who wishes can participate. 
+
 
 ### Working from home
 
