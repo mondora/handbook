@@ -27,7 +27,7 @@ Where, when and how we work - the ultimate getting started guide!
 
 ### Our offices
 
-Our head office is located in Milan, Via Umberto Visconti di Modrone 33. However, this is only for legal purposes and no one works here. Our main working office is in Cosio Valtellino, Via Nazionale 11. Here we have two open space areas with large desks, a separate meeting room and a fully equipped kitchen. 
+Our head office is located in Milan, Via Umberto Visconti di Modrone 33. However, this is only for legal purposes and no one works here. Our main working office is in Berbenno di Valtellina, Via Europa 1250. Here we have one open space area with large desks, a separate meeting room and a fully equipped kitchen. 
 
 We have a free seating policy, so every day when you arrive you can decide where to sit and work. There are “normal” desks, high desks, chairs, stools, gym balls and a couch to choose from. Take your pick! If you have a group call or a meeting, please use the meeting room so as not to disturb colleagues working on different projects from yours.
 
