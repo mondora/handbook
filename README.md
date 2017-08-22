@@ -27,11 +27,11 @@ Where, when and how we work - the ultimate getting started guide!
 
 ### Our offices
 
-Our head office is located in Milan, Via Umberto Visconti di Modrone 33. However, this is only for legal purposes and no one works here. Our main working office is in Berbenno di Valtellina, Via Europa 1250. Here we have one open space area with large desks, a separate meeting room and a fully equipped kitchen. 
+Our head office is located in Milan, Via Uberto Visconti di Modrone 33. However, this is only for legal purposes and no one works here. Our main working office is in Berbenno di Valtellina, Via Europa 1250. Here we have a large open space area with plenty of tables, two small meeting rooms and - soon to come - a fully equipped kitchen too. 
 
-We have a free seating policy, so every day when you arrive you can decide where to sit and work. There are “normal” desks, high desks, chairs, stools, gym balls and a couch to choose from. Take your pick! If you have a group call or a meeting, please use the meeting room so as not to disturb colleagues working on different projects from yours.
+We have a free seating policy, so every day when you arrive you can decide where to sit and work. There are “normal” desks, high desks, chairs, stools, gym balls and a couch to choose from. Take your pick! If you have a group call or a meeting, please use the meeting rooms so as not to disturb colleagues working on different projects from yours.
 
-The kitchen is for everyone to use, so you can make your own lunch there if you want. In the cupboards and fridge you will find tea, coffee, crackers, fruit, beer, etc. These are for everyone, just take what you want when you want it. If you finish something, make sure you replace it! As we are a B Corporation (more about that later) we mostly consume organic food and drink from the local health store. We suggest to all new employees to follow this healthy example. Oh, and bring your own tea mug (although we have some for guests too).
+The kitchen will be for everyone to use, so you can make your own lunch there if you want. In the cupboards and fridge (that are already in place) you will find tea, coffee, crackers, fruit, beer, etc. These are for everyone, just take what you want when you want it. If you finish something, make sure you replace it! As we are a B Corporation (more about that later) we mostly consume organic food and drink from the local health store. We suggest to all new employees to follow this healthy example. Oh, and bring your own tea mug (although we have some for guests too).
 
 Being a B corp, we promote healthy and environmentally friendly commuting alternatives. Do you live relatively close to the office? Use our programme [[Cycle2Work!](https://bcalmbcorp.com/cycle2work-creating-benefit-for-the-community-d64cbd339993)] Do any of your colleagues live close to you? Ask about car-pooling opportunities! Not everyone can follow these guidelines, but if you have the possibility you will gain in health and contribute to making the planet a better place.
 
@@ -41,9 +41,9 @@ As well as the office, we have other places where we occasionally work from. Som
 
 Our offices are not a place where you come in, sit down, work and go home. They are a place in which to meet people, interact, brainstorm and cocreate. We have whiteboards which we encourage you to use with your team, or with other teams, every week. We would like everyone to come into the office at least a couple of times per week where possible, so that you can share your ideas with your colleagues and learn something new every day. 
 
-Our offices are a place in which we create benefit for others around us, and receive benefit from them. They are a place in which to engage in meaningful conversations and debates, work together on specific tasks, master new skills and teach somethinhg to others. 
+Our offices are a place in which we create benefit for others around us, and receive benefit from them. They are a place in which to engage in meaningful conversations and debates, work together on specific tasks, master new skills and teach something to others. 
 
-The open space setting is a conscious choice made to promote and encourage collaboration and cocreation. Please remember to respect your colleagues at all times when working in this setting. If you have a call or a meeting, book and use the meeting room. If you want to ask someone a question, walk to their desk and talk to them, don't shout across the room. Keep your voice low when collaborating with others and remember to schedule a time for brainstorming or knowledge sharing so everyone who wishes can participate. 
+The open space setting is a conscious choice made to promote and encourage collaboration and cocreation. Please remember to respect your colleagues at all times when working in this setting. If you have a call or a meeting, book and use the meeting rooms. If you want to ask someone a question, walk to their desk and talk to them, don't shout across the room. Keep your voice low when collaborating with others and remember to schedule a time for brainstorming or knowledge sharing so everyone who wishes can participate. 
 
 
 ### Working from home
@@ -77,7 +77,7 @@ Some of the projects we work on in mondora are opensource, and you can take a si
 
 ### Meeting customers
 
-An important part of our work here in mondora is meeting, and working directly with, our customers. As we work in sprints or features, and the customer is always the Product Owner of the project we are working on, we work together regularly. This means that at least once every two weeks, we travel to the customer’s office and work from there. Customers are spread all over southern Europe, so be prepared to travel and be on time. We always prefer face to face meetings over video calls. 
+An important part of our work here in mondora is meeting, and working directly with, our customers. As we work in sprints or features, and the customer is always the Product Owner of the project we are working on, we work together regularly. This means that at least once every two weeks we travel to the customer’s office and work from there. Customers are spread all over southern Europe, so be prepared to travel and be on time. We always prefer face to face meetings over video calls. 
 It is a good idea to agree on any issues about the project within the team before meeting the customer. This way, the meeting will run smoothly and the discussion will be meaningful. Internal arguing in front of the customer is not professional and will not be tolerated. Also, be prepared to run a demo for the customer, and make sure everything is working well beforehand.
 
 ### How we work
@@ -103,7 +103,7 @@ At mondora it’s ok to fail: we believe people don’t learn from their success
 ### Courses
 
 In mondora we believe that all employees should have the possibility of continuing their professional development and acquiring new skills and qualifications during their time with us. We therefore encourage, and offer, various courses.
-Internal courses are taught by a colleague and can be about a learning to use a new technology, or a new work method. These courses run whenever there is a need/request for them. So if you’re interested in learning something specific, just ask. There is also an internal English course available, usually attended by those who need this language for work, but anyone is welcome. 
+Internal courses are taught by a colleague and can be about learning to use a new technology, or a new work method. These courses run whenever there is a need/request for them. So if you’re interested in learning something specific, just ask. There is also an internal English course available, usually attended by those who need this language for work, but anyone is welcome. 
 
 As part of our OKRs we have a list of certifications that we would like at least some of our employees to obtain. Courses and exams for these certifications run outside the office, but it is possible to get company funding for some of them, as well as paid time off to sit exams. 
 
