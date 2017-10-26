@@ -129,7 +129,15 @@ Further, you can claim back travel expenses for journeys to client offices throu
 
 If you’re working more than 40 hours a week, or you see a further opportunity with a customer, you’re required to agree how to tackle this extra work with your colleagues.  Once you have agreed with your team that you require extra help, you and your colleagues can then start the hiring process.
 
-You will be in charge on hiring your next colleague.
+You will be in charge on hiring your next colleague by following our hiring and training guidelines:
+
+- All potential candidates should complete a Pull Request Challenge. The Challenge can be adapted according to the candidate’s skills. 
+- Interviews are always conducted in pairs
+- You are responsible for the whole hiring process, from sending the Challenge to negotiating salary.
+- Once the Challenge and Interview phase are complete you can discuss the candidate’s position with the rest of the team. If no one is against the hire you can proceed with the contract.
+- Once you have hired a new player, you are responsible for their initial training: all new hires should receive this handbook, as well as information on the company mission and values, environmental stewardship and consideration of stakeholders. 
+- New hires should also be made aware of our company KPIs and Benefit Improvement tasks. 
+
 
 ### Vacation
 
