@@ -165,6 +165,11 @@ After the trial period, termination notice has to be given in writing, both by y
 
 Once you have handed in your termination notice, you are expected to gradually decrease your workload until the day you leave. During this time you should ensure you close all open activities, or pass them on to a colleague. You will no longer accept new projects or work fully on current projects. This is to ensure that nothing is left unfinished and that a colleague can easily continue the work once you have left. 
 
+## Whistleblower Policy
+
+We have a formal routine in place to report any breaches of law, ethics, behavior, policies, or any other abuses in a confidential and anonymous format. Not only is it important that we maintain our responsibility towards all our stakeholders, but it is imperative that all team players conduct themselves in an ethical and honest manner. You can report an event anonymously through Officevibe: simply use the “anything else on your mind” box at the end of your weekly survey and submit your complaint. The complaint will be viewed by the team so that a dialogue can be started and the issue resolved. In the unlikely event of criminal offences, these will be investigated and reported to police. 
+
+
 ## Code of ethics 
 
 The Code of ethics is intended to serve as a basis for ethical decision making in the conduct of professional work. It is understood that some words and phrases in a code of ethics are subject to varying interpretations, and that any ethical principle may conflict with other ethical principles in specific situations. Questions related to ethical conflicts can best be answered by thoughtful consideration of fundamental principles, rather than reliance on detailed regulations.
