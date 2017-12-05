@@ -125,6 +125,8 @@ In addition to your monthly salary, mondora also pays €8 per working day for l
 
 Further, you can claim back travel expenses for journeys to client offices through the appropriate form (ask our admin guru Lucia for the form). 
 
+As a result of a common decision, actually everyone in :m adheres to "Transparent Salary" agreement. This means, you should allow everyone to be aware of your salary and publish it into a shared document.
+
 ### Hiring
 
 If you’re working more than 40 hours a week, or you see a further opportunity with a customer, you’re required to agree how to tackle this extra work with your colleagues.  Once you have agreed with your team that you require extra help, you and your colleagues can then start the hiring process.
