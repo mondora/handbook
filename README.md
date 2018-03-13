@@ -6,7 +6,7 @@ In this handbook you will find useful information that will help you get started
 
 ## About mondora
 
-### Our purpose
+### Our purpose and mission
 
 As a Benefit Corporation the company intends to pursue the principles of equality, fraternity and legality, in order to favour an ecosystem between nature, humans (especially in the personal sphere), shareholders, stakeholders and, more generally, the local community and all the parts that are influenced by the company’s activities in any way. Special attention is given to the production of benefit for the local agricultural community of Valtellina, to favour the evolution of the primary sector as an advantage for society.
 
@@ -14,26 +14,23 @@ In virtue of the principles of benefit, the company’s objectives include the f
 support the organizations that operate in the field of technology, science, industry, economics and finance and aid them in the adoption and proficuous use of innovative technologies and methodologies in the field of software and, more generally, of Information Technology and organization.
 
 
-### Our mission
-
-The mission of mondora.com is to actively promote people before technology in the field of Information Technology. Our goal is to inspire - through technology and processes - customers and people to do no more than what is essential for their business, and to spend their money on something different. Inside the company we promote a different approach to life, by helping people to mitigate stress with a relaxed lifestyle, which includes moonlighting. The company is self managed and implements self organisation to promote the individual responsibilities of each player.
-
 ### Our history and values
 
-Mondora, founded in 2002, is a software and advisory company specialising in technology governance and providing innovative software solutions, development, design, and technical training to a range of large organizations, across multiple industries. Mondora supports clients with the design, implementation, and operation of a variety of IT environments and the associated teams and governance structures, with a strong focus on the implementation and management of emerging technological paradigms, such as cloud computing, Agile Methodologies, and finally DevOps. Over the years mondora has developed significant experience assessing and evolving complex architectures, and driving IT and business alignment. Among other projects, mondora has brought to market the product ControlMyCloud, a platform for managing SLAs on the cloud, that has been the baseline for industry standard and commercial research.
-
+Mondora, founded in 2002, is a software and advisory company specialising in technology governance and providing innovative software solutions, development, design, and technical training to a range of large organizations, across multiple industries. Mondora supports customers with the design, implementation, and operation of a variety of IT environments and the associated teams and governance structures, with a strong focus on the implementation and management of emerging technological paradigms, such as cloud computing, Agile Methodologies, and DevOps. Over the years mondora has developed significant experience assessing and evolving complex architectures, and driving IT and business alignment. 
 The mondora team is dedicated to uncovering ideas through creativity — in both thinking and customer oriented implementation. The company’s processes and services are supported by an intense global search for idiosyncratic opportunities on Cloud and Agile software development. mondora is a mix up of Software Architects, Visionary People, DevOps Consultants and Agilists who together create "The perfect" team for every occasion.
-Where, when and how we work - the ultimate getting started guide!
+
+
+## Where, when and how we work - the ultimate getting started guide!
 
 ### Our offices
 
-Our head office is located in Milan, Via Uberto Visconti di Modrone 33. However, this is only for legal purposes and no one works here. Our main working office is in Berbenno di Valtellina, Via Europa 1250. Here we have a large open space area with plenty of tables, two small meeting rooms and - soon to come - a fully equipped kitchen too. 
+Our head office is located in Milan, Via Uberto Visconti di Modrone 33. However, this is only for legal purposes and no one works here. Our main working office is in Berbenno di Valtellina, Via Europa 1250. Here we have a large open space area with plenty of tables, three meeting rooms, a mindfulness room and a fully equipped kitchen.
 
-We have a free seating policy, so every day when you arrive you can decide where to sit and work. There are “normal” desks, high desks, chairs, stools, gym balls and a couch to choose from. Take your pick! If you have a group call or a meeting, please use the meeting rooms so as not to disturb colleagues working on different projects from yours.
+We have a free seating policy, so every day when you arrive you can decide where to sit and work. There are “normal” desks, high desks, chairs, stools, gym balls and couches to choose from. Take your pick! If you have a group call or a meeting, please use the meeting rooms so as not to disturb colleagues working on different projects from yours.
 
-The kitchen will be for everyone to use, so you can make your own lunch there if you want. In the cupboards and fridge (that are already in place) you will find tea, coffee, crackers, fruit, beer, etc. These are for everyone, just take what you want when you want it. If you finish something, make sure you replace it! As we are a B Corporation (more about that later) we mostly consume organic food and drink from the local health store. We suggest to all new employees to follow this healthy example. Oh, and bring your own tea mug (although we have some for guests too).
+The kitchen is for everyone to use, so you can make your own lunch there if you want. In the cupboards and fridge (that are already in place) you will find tea, coffee, crackers, fruit, beer, etc. These are for everyone, just take what you want when you want it. If you finish something, make sure you replace it! As we are a B Corporation (more about that later) we mostly consume organic food and drink from the local health stores. We suggest to all new employees to follow this healthy example. Oh, and bring your own tea mug (although we have some for guests too).
 
-Being a B corp, we promote healthy and environmentally friendly commuting alternatives. Do you live relatively close to the office? Use our programme [[Cycle2Work!](https://bcalmbcorp.com/cycle2work-creating-benefit-for-the-community-d64cbd339993)] Do any of your colleagues live close to you? Ask about car-pooling opportunities! Not everyone can follow these guidelines, but if you have the possibility you will gain in health and contribute to making the planet a better place.
+Being a B corp, we promote healthy and environmentally friendly commuting alternatives. Do you live relatively close to the office? Use our programme [[Cycle2Work!](https://bcalmbcorp.com/cycle2work-creating-benefit-for-the-community-d64cbd339993)] Do any of your colleagues live close to you? Ask about car-pooling opportunities! Not everyone can follow these guidelines, but if you have the possibility you will gain in health and contribute to making the planet a better place. More about this in the next section of this handbook.
 
 As well as the office, we have other places where we occasionally work from. Some days we organize an “out of office day” where we work from a mountain refuge or other place. We also have “affiliate” offices, where colleagues have created an office space in their own home, and welcome others to share this space and work together. 
 
@@ -43,15 +40,15 @@ Our offices are not a place where you come in, sit down, work and go home. They 
 
 Our offices are a place in which we create benefit for others around us, and receive benefit from them. They are a place in which to engage in meaningful conversations and debates, work together on specific tasks, master new skills and teach something to others. 
 
-The open space setting is a conscious choice made to promote and encourage collaboration and cocreation. Please remember to respect your colleagues at all times when working in this setting. If you have a call or a meeting, book and use the meeting rooms. If you want to ask someone a question, walk to their desk and talk to them, don't shout across the room. Keep your voice low when collaborating with others and remember to schedule a time for brainstorming or knowledge sharing so everyone who wishes can participate. 
+The open space setting is a conscious choice made to promote and encourage collaboration and cocreation. Please remember to respect your colleagues at all times when working in this setting. If you have a call or a meeting, use the meeting rooms. If you want to ask someone a question, walk to their desk and talk to them, don't shout across the room. Keep your voice low when collaborating with others and remember to schedule a time for brainstorming or knowledge sharing so everyone who wishes can participate. 
 
 
 ### Working from home
 
 Here at mondora we give you the opportunity to work from home. Some of our colleagues live very far from the office, and so work from home most days. Others normally come to the office, but work from home some days too. The trick is to balance office/home work correctly. 
 We prefer that new employees work from the office every day for as long as they require help and assistance from others. If this is your first job,  you are an apprentice, or are still learning about IT, you should be in the office as much as possible, so you can learn more easily from your colleagues. Once you have the necessary skills to work alone, you are free to work from whichever location you wish. Do keep in mind that the office is not just a work space, but also a place in which people meet, interact, share ideas and have fun… so make sure you don’t miss out on all that’s happening here!
-We currently have employees spread over Valtellina, Milan, Pavia, Bergamo and Novara in Italy, as well as Switzerland and Japan. In order to keep in contact and communicate effectively, we use a set of tools, such as Skype, Slack, Google Hangouts, Whatsapp and the seasoned email.  You will learn more about how we use these tools during your first weeks with us. Communication is key! 
-Last but not least...working from home is fine, but remember to physically turn up (on time!) for client meetings! 
+We currently have employees spread over various Italian cities, as well as Switzerland, Lithuania and Japan. In order to keep in contact and communicate effectively, we use a set of tools, such as Slack, Google Hangouts, Whatsapp and the seasoned email.  You will learn more about how we use these tools during your first weeks with us. Communication is key! 
+Last but not least...working from home is fine, but remember to physically turn up (on time!) for customer meetings! 
 
 ### Environmentally Friendly Workplace
 
@@ -64,7 +61,7 @@ As for disposal of electronic equipment, all equipment is to be returned to the 
 
 Office hours are very flexible. Most of us start at about 9 am and leave at 6 pm, but it’s really up to you, as long as you are on time for meetings and the rest of the team agrees to your working hours. 
 On average, you should work 40 hours a week. How you spread these hours over the week is up to you and your team.
-You are required to be present at client meetings and team meetings. These meetings usually take place at the client’s office, so be prepared to travel. 
+You are required to be present at customer meetings and team meetings. These meetings usually take place at the customer’s office, so be prepared to travel. 
 
 ### What to work on
 
