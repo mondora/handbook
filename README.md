@@ -196,11 +196,13 @@ In addition to your monthly salary, mondora also pays €8 per working day for l
 
 Further, you can claim back travel expenses for journeys to customer offices through the appropriate form (ask our admin guru Lucia for the form). 
 
+Many players in mondora have chosen to publish their salary internally for others to see. As a new employee you can choose if you would also like to publish your salary, and if you wish to see others' salaries. In order to access this information you must join the Slack channel #salaries. Here you will then find a spreadsheet with salary info and you can add your own if you like.
+
 ### Hiring
 
 If you’re working more than 40 hours a week, or you see a further opportunity with a customer, you’re required to agree how to tackle this extra work with your colleagues.  Once you have agreed with your team that you require extra help, you and your colleagues can then start the hiring process.
 
-You will be in charge on hiring your next colleague by following our hiring and training guidelines which you can find here. 
+You will be in charge on hiring your next colleague by following our [hiring and training guidelines(https://docs.google.com/presentation/d/1PYsEXqB-PJwgiArvyVZUbLS0eEIB6SC0wZfIvoa2oq4/edit?usp=sharing)]. 
 
 
 ### Vacation
