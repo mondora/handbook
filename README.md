@@ -50,13 +50,6 @@ We prefer that new employees work from the office every day for as long as they 
 We currently have employees spread over various Italian cities, as well as Switzerland, Lithuania and Japan. In order to keep in contact and communicate effectively, we use a set of tools, such as Slack, Google Hangouts, Whatsapp and the seasoned email.  You will learn more about how we use these tools during your first weeks with us. Communication is key! 
 Last but not least...working from home is fine, but remember to physically turn up (on time!) for customer meetings! 
 
-### Environmentally Friendly Workplace
-
-Wherever you choose to work from, it is important that you practice environmental stewardship. In the office we always recycle paper, plastic, glass and compost. We also have a Google Nest intelligent thermostat to help regulate heating and save energy, especially when no one is in the office. Our offices are cleaned with non-toxic products and our whiteboard pens are water based. We are a paper free office, so we have no printers. 
-
-We encourage everyone to follow these practices in their own home too. Here is a list of preferred vendors for any office supplies you may need. For tips and ideas on how to be more eco-friendly check out our Pinterest board “Green Office Ideas”. 
-As for disposal of electronic equipment, all equipment is to be returned to the vendor who is authorized to dispose of it in accordance with the law. You are not to dispose of electronic equipment by yourself. 
-
 ### Working hours
 
 Office hours are very flexible. Most of us start at about 9 am and leave at 6 pm, but it’s really up to you, as long as you are on time for meetings and the rest of the team agrees to your working hours. 
@@ -74,24 +67,26 @@ Some of the projects we work on in mondora are opensource, and you can take a si
 
 ### Meeting customers
 
-An important part of our work here in mondora is meeting, and working directly with, our customers. As we work in sprints or features, and the customer is always the Product Owner of the project we are working on, we work together regularly. This means that at least once every two weeks we travel to the customer’s office and work from there. Customers are spread all over southern Europe, so be prepared to travel and be on time. We always prefer face to face meetings over video calls. 
+An important part of our work here in mondora is meeting, and working directly with, our customers. As we work in sprints or features, and the customer is always the Product Owner of the project we are working on, we work together regularly. This means that at least once every two weeks we travel to the customer’s office and work from there. Customers are spread all over Italy, so be prepared to travel and be on time. We always prefer face to face meetings over video conferences. 
 It is a good idea to agree on any issues about the project within the team before meeting the customer. This way, the meeting will run smoothly and the discussion will be meaningful. Internal arguing in front of the customer is not professional and will not be tolerated. Also, be prepared to run a demo for the customer, and make sure everything is working well beforehand.
 
 ### How we work
 
 mondora is a company with a flat structure. This means that everyone is on the same level, even the CEO and the BOD, and that you take responsibility for your own work and the part you play in the company. There are no managers, only team players. You can talk to the CEO directly, and you can even disagree with him (sometimes!). You agree on work with your team, you make autonomous decisions and you consult your colleagues for complex issues. 
 
+Our main communication tools are:
+Slack - for team collaboration, quick decisions and general information. Some workspaces and channels are shared with customers. Browse all channels and join the ones that interest you. 
+Loomio - for important decision making. Here you can start a discussion, add your point of view to a discussion thread, cast a vote, start a poll, etc. Keep track of Loomio activity in the #decisions channel on Slack. 
+Officevibe - for anonymous opinions and feedback. If you use this tool regularly you will be made admin and can reply to other people's feedback. Keep track of feedback through the #feedback channel on Slack.  
+Email - for company wide announcements. We prefer Slack for most team and customer communications. 
+
+In addition we have a WhatsApp group for immediate discussions and random things. 
+
 Most work within mondora is done in teams. Teams work together to create solutions and solve issues. Within a team, junior members can learn from more senior ones. Often team members work in pairs, either in the office or remotely. This is a great way for people to acquire new skills and see how others work. As mentioned previously, teams are not fixed for the whole duration of a project. Team rotation is encouraged and all players are expected to take part in different projects and learn to use various technologies during their time in mondora.
 
 Everyone in mondora uses Scrum, Kanban, DDD and embraces Agile methodologies. We work in sprints of two weeks each, we deliver something useful to the customer right from the start, every two weeks. We have sprint planning/review meetings and Daily Scrum meetings. We help customers identify the issues they need to solve and provide an Empathy Map, Value Proposition Canvas and a Business Model Canvas to them. We then help them reach understanding of the Minimum Viable Product required, and work towards reaching this goal first. If you are not familiar with this, it is a good idea to read something about these work methods. Why not start with this list of useful books? 
 
 [(http://www.amazon.it/gp/registry/wishlist/3TQEI53VLU47N/ref=cm_wl_huc_title)]
-
-### Challenges
-
-Challenges keep your work interesting and help you come out of your comfort zone and constantly strive to improve. Here at mondora we love a good challenge, and this is why we have set up a list of Objectives and Key Results that we want to achieve every month. These are not individual, creating competition, but rather goals that the whole team can work towards and achieve together. Good teamwork is essential for coping with these challenges and reaching the desired results. 
-
-Our OKRs range from certifications, to analyst meetings, to opensource projects, to environmental goals. There is something for everyone and your colleagues are there to support you in the challenges you wish to attempt. 
 
 ### Failures
 
@@ -100,13 +95,92 @@ At mondora it’s ok to fail: we believe people don’t learn from their success
 ### Courses
 
 In mondora we believe that all employees should have the possibility of continuing their professional development and acquiring new skills and qualifications during their time with us. We therefore encourage, and offer, various courses.
-Internal courses are taught by a colleague and can be about learning to use a new technology, or a new work method. These courses run whenever there is a need/request for them. So if you’re interested in learning something specific, just ask. There is also an internal English course available, usually attended by those who need this language for work, but anyone is welcome. 
-
-As part of our OKRs we have a list of certifications that we would like at least some of our employees to obtain. Courses and exams for these certifications run outside the office, but it is possible to get company funding for some of them, as well as paid time off to sit exams. 
+Internal courses are taught by a colleague and can be about learning to use a new technology, or a new work method. These courses run whenever there is a need/request for them. So if you’re interested in learning something specific, just ask. There is also an internal English course available.
 
 ### Emerging ideas
 
-Emerging ideas are fully supported and are the future for the company business. If you have an idea, please share it with your colleagues and start working on it. Take a look at this post to find out more about how we value ideas. 
+Emerging ideas are fully supported and are the future for the company business. If you have an idea, please share it with your colleagues and start working on it. 
+
+## Living our Mission
+
+Now that you’ve read all about our company purpose, mission and values, and know a bit more about how mondora is organised and functions, you may be asking yourself how these things all fit together. How do we take care of people, of the local community, and of the land in day-by-day activities whilst also building great software and engaging with our customers? Here’s how it all works, and how you can take part in the benefit creating activities that define mondora as a [New Normal company!(https://bcalmbcorp.com/some-old-normal-company-oddities-255a84202552)] 
+
+### Benefit Projects - for people, community and land
+
+#### [HireBitto(http://hirebitto.com)]
+
+HireBitto is a project which benefits local farmers and cheesemakers who choose to work with traditional methods, without the use of chemicals or industrial machinery. For every new employee, the company buys a wheel of Storico Ribelle cheese. The cheese is decorated with blueberry ink and kept in the casèra for three years. After this period, it is auctioned and the earnings are reinvested in the community. The cheese is paid for by mondora, but it belongs to the community. The employee is responsible for this benefit creation process. HireBitto is essentially an interdependence agreement between mondora, you (the employee) and the local community - so you can start creating benefit with the company from day one!
+
+#### [Cycle2Work(http://cycle2work.io)]
+
+Cycle2Work.io is a project that lets you get paid for commuting to work, whilst safeguarding the environment. It’s connected to the app Strava, where you can join the :m team and earn € 0.20/km for cycling rather than driving to the office, and save an average of 4.32 kg of CO2 each day.
+
+#### [Company Food(https://companyfood.tumblr.com/)]
+
+Two of mondora’s team players are farmers who work the land locally and grow vegetables, cereals, fruits and make honey. This produce is freely available for all employees who come to the office, so that people can enjoy healthy, organic and local food. You will find this food in the office kitchen and are welcome to eat what you want!
+
+#### [Share our Break(http://shareourbreak.com)]
+
+Share our Break is a small project that was born to help local farmers promote and sell their products through our network. We start by sending a free “break” to our customers, so that they can share the delicious organic food we have in the office with us, and then we ask them to order more “breaks” and share them with their customers. At the moment we are promoting three local biodynamic farmers. 
+
+### Taking care of the environment
+
+#### Hiring a farmer
+
+mondora has a policy whereby for every 20 employees, the company hires a farmer to work the land and grow organic produce. There is a clause in all work contracts from 2017 onwards that states the joint responsibility of the company and the employee to ensure that this policy is upheld. We hire farmers because we believe their work is extremely important: without farming we would not be able to nourish ourselves, live a healthy life and get our work done!
+
+#### Environmentally friendly workplace
+
+Wherever you choose to work from, it is important that you practice environmental stewardship. In the office we always recycle paper, plastic, glass and compost. Our offices are cleaned with non-toxic products and our whiteboard pens are water based. We are a paper free office, so we have no printers. We encourage everyone to follow these practices in their own home too. [Here(https://docs.google.com/document/d/1HRmeNj3JmphAD9mL56MW5h4r-OJT6ONzgn65ZuS-jAQ/edit?usp=sharing)] is a list of preferred vendors for any office supplies you may need. For tips and ideas on how to be more eco-friendly check out our Pinterest board [“Green Office Ideas”(https://it.pinterest.com/mondoracom/green-office-ideas/)]. As for disposal of electronic equipment, all equipment is to be returned to the vendor who is authorized to dispose of it in accordance with the law. You are not to dispose of electronic equipment by yourself.
+
+#### Corporate travel
+
+We try to limit corporate travel by choosing video conferencing whenever possible. However, sometimes it is necessary to travel and meet people in person. When travelling we all (starting with the CEOs!) prefer economy class for trains and flights, and Airbnb apartments or small family run hotels for overnight accomodation. This is because we like to help the local economy, wherever we are staying. 
+
+#### Commuting
+
+When commuting to and from the office, please be mindful of the environment. If you like cycling you can join Cycle2Work and earn € 0.20/km for your commutes. If you wish to travel by car, ask your colleagues who is passing by and share the trip. Public transport options are also available, although they are not very convenient at our current location and you may need to arrange to be picked up at the train station. 
+
+### Taking care of people (that's you)
+
+#### PSYA
+
+mondora has partnered with PSYA to offer all employees and their families a free and anonymous counselling service. PSYA has seven trained psychologists who are available on the phone 24/7. You can call them and speak to someone for both work related and personal issues and you don’t have to give your real name. There is also a live chat service available in the daytime through PSYA’s website. Please check out [this presentation(https://docs.google.com/presentation/d/12mUO43tkFL8HwsQEaanNM-rjHYEk-Av5EV_vkvlnpOQ/edit?usp=sharing)] for all the info. 
+
+#### Farmer for one day
+
+If you are experiencing a period of stress, or would just like to try something different once in a while, you have the possibility to join the mondora farmers for a day or more of work in the fields. Work is seasonal and varied, and can also be a great opportunity to learn something new! Just ask your farmer colleagues what they need help with - and don’t forget to notify your team that you will be offline for a while. Happy farming!
+
+#### English lessons
+
+In mondora we use English a lot and we wish for everyone to have a good level of this language. You can take part in English lessons for free during working hours, with a qualified mothertongue teacher. Our English classes are structured so that you can do work whenever you want and have it reviewed, organise a conversation class when it suits you and take part remotely too. Check out the [English for Smartworkers(https://docs.google.com/presentation/d/1m1sai3juBT07MlSr-Txqwn0NCBrnX8rpPtmZkwnPxWI/edit?usp=sharing)] presentation for more info. 
+
+#### Out of office days
+
+The office is a great place to work from, but occasionally we get together and work from somewhere else. Our Out of Office days usually include “ski thursdays” where we work from a mountain refuge on the ski slopes in winter. When working out of office we try to combine the day with an activity we can do together, such as skiing or climbing. Anyone can organise an out of office day, all you need to do is find a nice location with wifi available.
+
+#### Officevibe
+
+We use Officevibe to measure employee happiness and satisfaction at work. Through this platform you can express your opinion and leave anonymous feedback. Everyone who actively participates in Officevibe surveys is made admin and can reply to feedback, so that we all help each other in solving problems and issues as they arise. 
+
+### Taking care of the community
+
+#### Volunteering
+
+mondora encourages volunteering and offers paid time off upon request. Occasionally there will also be the chance to volunteer for one of the company’s Benefit Projects. If you do any volunteering during weekends or evenings, please inform the company. We may be able to contribute in some way, such as matching your volunteering days with extra paid days off work for this activity.
+
+#### Interdependence Agreements
+
+mondora has a strong focus on creating positive impact for the local community. As a company we have various active “benefit projects”, but we are also part of a larger network of companies that can create more benefit when they work together. For this reason we always suggest an “interdependence agreement” with our customers: we offer a discount in exchange for time and effort on a joint project that can create a positive impact. Similar agreements are suggested with main suppliers too. Most customers and suppliers agree to this interdependence clause and we work on joint projects that benefit the local community. 
+
+#### Benefit OKRs
+
+In [this document(https://docs.google.com/spreadsheets/d/1UH1JvtDRfTn_j0LKYKr6rWKncH3FgYgPPOpkK4s1DLs/edit?usp=sharing)]  we have outlined the main Benefit Objectives and Key Results that we track. These targets and results are team based efforts: we do not track individual performance. Everyone can contribute to the :m team reaching its targets each quarter and you can help by tracking your contribution and adding it to the team effort. As a new employee you will receive guidance on how the OKRs work, as well as getting updates along the way during your time in mondora. 
+
+#### Local suppliers
+
+We have a company policy whereby we prefer local suppliers wherever possible. You can read the full document [here(https://docs.google.com/document/d/1SYzhZcqZRUL1iBavracinVK-m7yVPeu5oHkHKtTm6vY/edit?usp=sharing)]. 
+
 
 ## Salaries, benefits and leave - here’s what we have to offer
 
@@ -120,20 +194,13 @@ mondora does not pay for overtime, so make sure you balance your work week corre
 
 In addition to your monthly salary, mondora also pays €8 per working day for lunch allowance. This will appear in your payslip and be paid with your salary each month.
 
-Further, you can claim back travel expenses for journeys to client offices through the appropriate form (ask our admin guru Lucia for the form). 
+Further, you can claim back travel expenses for journeys to customer offices through the appropriate form (ask our admin guru Lucia for the form). 
 
 ### Hiring
 
 If you’re working more than 40 hours a week, or you see a further opportunity with a customer, you’re required to agree how to tackle this extra work with your colleagues.  Once you have agreed with your team that you require extra help, you and your colleagues can then start the hiring process.
 
-You will be in charge on hiring your next colleague by following our hiring and training guidelines:
-
-- All potential candidates should complete a Pull Request Challenge. The Challenge can be adapted according to the candidate’s skills. 
-- Interviews are always conducted in pairs
-- You are responsible for the whole hiring process, from sending the Challenge to negotiating salary.
-- Once the Challenge and Interview phase are complete you can discuss the candidate’s position with the rest of the team. If no one is against the hire you can proceed with the contract.
-- Once you have hired a new player, you are responsible for their initial training: all new hires should receive this handbook, as well as information on the company mission and values, environmental stewardship and consideration of stakeholders. 
-- New hires should also be made aware of our company KPIs and Benefit Improvement tasks. 
+You will be in charge on hiring your next colleague by following our hiring and training guidelines which you can find here. 
 
 
 ### Vacation
