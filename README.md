@@ -196,6 +196,8 @@ Further, you can claim back travel expenses for journeys to customer offices thr
 
 Many players in mondora have chosen to publish their salary internally for others to see. As a new employee you can choose if you would also like to publish your salary, and if you wish to see others' salaries. In order to access this information you must join the Slack channel #salaries. Here you will then find a spreadsheet with salary info and you can add your own if you like.
 
+As a result of a common decision, actually everyone in :m adheres to "Transparent Salary" agreement. This means, you should allow everyone to be aware of your salary and publish it into a shared document.
+
 ### Hiring
 
 If you’re working more than 40 hours a week, or you see a further opportunity with a customer, you’re required to agree how to tackle this extra work with your colleagues.  Once you have agreed with your team that you require extra help, you and your colleagues can then start the hiring process.
