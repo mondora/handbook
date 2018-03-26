@@ -17,7 +17,7 @@ support the organizations that operate in the field of technology, science, indu
 ### Our history and values
 
 Mondora, founded in 2002, is a software and advisory company specialising in technology governance and providing innovative software solutions, development, design, and technical training to a range of large organizations, across multiple industries. Mondora supports customers with the design, implementation, and operation of a variety of IT environments and the associated teams and governance structures, with a strong focus on the implementation and management of emerging technological paradigms, such as cloud computing, Agile Methodologies, and DevOps. Over the years mondora has developed significant experience assessing and evolving complex architectures, and driving IT and business alignment. 
-The mondora team is dedicated to uncovering ideas through creativity — in both thinking and customer oriented implementation. The company’s processes and services are supported by an intense global search for idiosyncratic opportunities on Cloud and Agile software development. mondora is a mix up of Software Architects, Visionary People, DevOps Consultants and Agilists who together create "The perfect" team for every occasion.
+The mondora team is dedicated to uncovering ideas through creativity — in both thinking and customer oriented implementation. The company’s processes and services are supported by an intense global search for idiosyncratic opportunities on Cloud and Agile software development. mondora is a mix up of Software Architects, Visionary People, DevOps Consultants and Agilists who together create "the perfect" team for every occasion.
 
 
 ## Where, when and how we work - the ultimate getting started guide!
@@ -237,7 +237,7 @@ We have a formal routine in place to report any breaches of law, ethics, behavio
 
 ## Code of ethics 
 
-The Code of ethics is the basis for ethical decision making in the conduct of professional work. Some words and phrases in a code of ethics can be subject to varying interpretations, and that any ethical principle may conflict with other ethical principles in specific situations. Questions related to ethical conflicts can best be answered by thoughtful consideration of fundamental principles, rather than reliance on detailed regulations.
+The Code of ethics is the basis for ethical decision making in the conduct of professional work. Some words and phrases in the code of ethics can be subject to varying interpretations, and any ethical principle may conflict with other ethical principles in specific situations. Questions related to ethical conflicts can best be answered by thoughtful consideration of fundamental principles, rather than reliance on detailed regulations.
 
 ### 1. General responsibilities and policies
 
