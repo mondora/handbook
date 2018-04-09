@@ -165,7 +165,7 @@ We use Officevibe to measure employee happiness and satisfaction at work. Throug
 
 #### Volunteering
 
-mondora encourages volunteering and offers paid time off upon request. Occasionally there will also be the chance to volunteer for one of the company’s Benefit Projects. If you do any volunteering during weekends or evenings, please inform the company. We may be able to contribute in some way, such as matching your volunteering days with extra paid days off work for this activity.
+mondora encourages volunteering and offers paid time off for such activities upon request. There is no set limit to the hours you can use for volunteering projects: depending on the type of work you can take 20 hours or more per year as needed.  Occasionally there will also be the chance to volunteer for one of the company’s Benefit Projects. If you do any volunteering during weekends or evenings, please inform the company. We may be able to contribute in some way, such as matching your volunteering days with extra paid days off work for this activity.
 
 #### Interdependence Agreements
 
