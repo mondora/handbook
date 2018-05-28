@@ -88,7 +88,7 @@ In this handbook you will find useful information that will help you get started
 
 [4.4 Leave](#44-leave)
 
-[4.5 Work termination - what if I want to leave?](#45-work-termination-what-if-i-want-to-leave?)
+[4.5 Work termination - what if I want to leave?](#45-work-termination---what-if-i-want-to-leave)
 
 [4.6 Whistleblower Policy](#46-whistleblower-policy)
 
