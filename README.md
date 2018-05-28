@@ -221,13 +221,13 @@ We have a formal routine in place to report any breaches of law, ethics, behavio
 
 The Code of ethics is the basis for ethical decision making in the conduct of professional work. Some words and phrases in the code of ethics can be subject to varying interpretations, and any ethical principle may conflict with other ethical principles in specific situations. Questions related to ethical conflicts can best be answered by thoughtful consideration of fundamental principles, rather than reliance on detailed regulations.
 
-### 1. General responsibilities and policies
+### General responsibilities and policies
 
-#### 1.1 B Corporation values
+#### B Corporation values
 
 mondora is a Certified B Corporation. All mondora workers agree to, and respect, the B Corporation values, thus complying to the highest standards of transparency, accountability, and performance. A B Corporation is a company that uses business as a force for good, creating higher quality jobs and improving the quality of life in our community.
 
-#### 1.2 Contribution to society and human well-being.
+#### Contribution to society and human well-being.
 
 This principle concerning the quality of life of all people affirms an obligation to protect fundamental human rights and to respect the diversity of all cultures. An essential aim of IT professionals is to minimize negative consequences of computing systems, including threats to health and safety. When designing or implementing systems, IT professionals must attempt to ensure that the products of their efforts will be used in socially responsible ways, will meet social needs, and will avoid harmful effects to health and welfare.
 
@@ -235,19 +235,19 @@ In addition to a safe social environment, human well-being includes a safe natur
 
 Because organizations of all kinds have impacts on the public, they must accept responsibilities to society. Organizational procedures and attitudes oriented toward quality and the welfare of society will reduce harm to members of the public, thereby serving public interest and fulfilling social responsibility. Therefore,organizational leaders must encourage full participation in meeting social responsibilities as well as quality performance.
 
-#### 1.3 Honesty and trustworthiness
+#### Honesty and trustworthiness
 
 Honesty is an essential component of trust. Without trust an organization cannot function effectively. The honest professional worker will not make deliberately false or deceptive claims about his work. A professional worker has a duty to be honest about his or her own qualifications, and about any circumstances that might lead to conflicts of interest.
 
-#### 1.4 Non-discrimination
+#### Non-discrimination
 
 The values of equality, tolerance, respect for others, and the principles of equal justice govern this imperative. Discrimination on the basis of race, sex, religion, age, disability, national origin, or other such factors is an explicit violation of mondora’s policy and will not be tolerated.
 
-#### 1.5 Property rights, copyrights and patents
+#### Property rights, copyrights and patents
 
 Violation of copyrights, patents, trade secrets and the terms of license agreements is prohibited by law in most circumstances. Even when software is not so protected, such violations are contrary to professional behavior. Copies of software should be made only with proper authorization. Unauthorized duplication of materials must not be condoned. Computing professionals are obligated to protect the integrity of intellectual property. Specifically, one must not take credit for other's ideas or work, even in cases where the work has not been explicitly protected by copyright, patent, etc.
 
-#### 1.6 Privacy and confidentiality
+#### Privacy and confidentiality
 
 Computing and communication technology enables the collection and exchange of personal information on a scale unprecedented in the history of civilization. Thus there is increased potential for violating the privacy of individuals and groups. It is the responsibility of professionals to maintain the privacy and integrity of data describing individuals. This includes taking precautions to ensure the accuracy of data, as well as protecting it from unauthorized access or accidental disclosure to inappropriate individuals. Furthermore, procedures must be established to allow individuals to review their records and correct inaccuracies.
 
@@ -255,35 +255,35 @@ This imperative implies that only the necessary amount of personal information b
 
 The principle of honesty extends to issues of confidentiality of information whenever one has made an explicit promise to honor confidentiality or, implicitly, when private information not directly related to the performance of one's duties becomes available. The ethical concern is to respect all obligations of confidentiality to employers, customers, and users unless discharged from such obligations by requirements of the law or other principles of this Code.
 
-### 2. Professional responsibilities
+### Professional responsibilities
 
-#### 2.1 Quality of work
+#### Quality of work
 
 Strive to achieve the highest quality, effectiveness and dignity in both the process and products of professional work. Excellence is perhaps the most important obligation of a professional. The professional worker must strive to achieve quality and to be cognizant of the serious negative consequences that may result from poor quality in his or her work.
 
-#### 2.2 Professional competence
+#### Professional competence
 
 Excellence depends on individuals who take responsibility for acquiring and maintaining professional competence. A professional must participate in setting standards for appropriate levels of competence, and strive to achieve those standards. Upgrading technical knowledge and competence can be achieved in several ways: doing independent study; attending seminars, conferences, or courses; and being involved in professional organizations.
 
-#### 2.3 Knowledge and respect of existing laws
+#### Knowledge and respect of existing laws
 
 mondora workers must obey existing local, state,province, national, and international laws unless there is a compelling ethical basis not to do so. Policies and procedures of the organizations in which one participates must also be obeyed. But compliance must be balanced with the recognition that sometimes existing laws and rules may be immoral or inappropriate and, therefore, must be challenged. Violation of a law or regulation may be ethical when that law or rule has inadequate moral basis or when it conflicts with another law judged to be more important. If one decides to violate a law or rule because it is viewed as unethical, or for any other reason, one must fully accept responsibility for one's actions and for the consequences.
 
-#### 2.4 Professional review
+#### Professional review
 
 Quality professional work, especially in the computing profession, depends on professional reviewing and critiquing. Whenever appropriate, individual members should seek and utilize peer review as well as provide critical review of the work of others.
 
-### 3. Specific responsibilities of the IT professional
+### Specific responsibilities of the IT professional
 
-#### 3.1 Comprehensive evaluations
+#### Comprehensive evaluations
 
 IT professionals must strive to be perceptive, thorough, and objective when evaluating, recommending, and presenting system descriptions and alternatives. IT professionals are in a position of special trust, and therefore have a special responsibility to provide objective, credible evaluations to employers, customers, users, and the public. When providing evaluations the professional must also identify any relevant conflicts of interest. Any signs of danger from systems must be reported to those who have opportunity and/or responsibility to resolve them.
 
-#### 3.2 Work commitment
+#### Work commitment
 
 Honoring one's commitments is a matter of integrity and honesty. For the IT professional this includes ensuring that system elements perform as intended. Also, when one contracts for work with another party, one has an obligation to keep that party properly informed about progress toward completing that work.
 
-### 4. Compliance with the Code
+### Compliance with the Code
 
 The future of the IT profession depends on both technical and ethical excellence. Not only is it important for mondora professionals to adhere to the principles expressed in this Code, each member should encourage and support adherence by other members.
 
