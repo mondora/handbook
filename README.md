@@ -29,6 +29,8 @@ In this handbook you will find useful information that will help you get started
 
 - [How we work](#how-we-work)
 
+- [Servant Leadership](#servant-leadership)
+
 - [Failures](#failures)
 
 - [Courses](#courses)
@@ -197,6 +199,11 @@ In addition we have a WhatsApp group for immediate discussions and random things
 Most work within mondora is done in teams. Teams work together to create solutions and solve issues. Within a team, junior members can learn from more senior ones. Often team members work in pairs, either in the office or remotely. This is a great way for people to acquire new skills and see how others work. As mentioned previously, teams are not fixed for the whole duration of a project. Team rotation is encouraged and all players are expected to take part in different projects and learn to use various technologies during their time in mondora.
 
 Everyone in mondora uses Scrum, Kanban, DDD and embraces Agile methodologies. We work in sprints of two weeks each, we deliver something useful to the customer right from the start, every two weeks. We have sprint planning/review meetings and Daily Scrum meetings. We help customers identify the issues they need to solve and provide an Empathy Map, Value Proposition Canvas and a Business Model Canvas to them. We then help them reach understanding of the Minimum Viable Product required, and work towards reaching this goal first. If you are not familiar with this, it is a good idea to read something about these work methods. Why not start with [this list of useful books](http://www.amazon.it/gp/registry/wishlist/3TQEI53VLU47N/ref=cm_wl_huc_title)?
+
+### Servant Leadership
+
+Every third Friday of the month we have a Servant Leadership meeting. The meeting is open to everyone and people who are interested take in turns participating. The aim of Servant Leadership meetings is to analyse the company ecosystem and spot any issues that could lead to or be the cause of problems, and find solutions to these. For example, if a particular problem is caused by lack of skills training, the group can suggest and organise a training course for the team. These meetings are useful in analysing the company's whole ecosystem and understanding the cause and effect of activities and issues, instead of blaming individuals when things go wrong. 
+
 
 ### Failures
 
