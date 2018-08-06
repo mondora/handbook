@@ -2,132 +2,80 @@
 
 ## Welcome to mondora!
 
-In this handbook you will find useful information that will help you get started and guide you during your time with us. Please read this information carefully, and don’t hesitate to ask if anything is unclear!
-![Believing mondora.com](believing-mondora-com.png)
+In this handbook you will find useful information that will help you get started and guide you during your time with us. Please read this information carefully, and don’t hesitate to ask if anything is unclear! ![Believing mondora.com](.gitbook/assets/believing-mondora-com.png)
+
 ## Table of Contents
 
+[About mondora](./#about-mondora)
 
-[About mondora](#about-mondora)
+* [Our purpose and mission](./#our-purpose-and-mission)
+* [Our history and values](./#our-history-and-values)
 
-- [Our purpose and mission](#our-purpose-and-mission)
+[Where, when and how we work - the ultimate getting started guide!](./#where-when-and-how-we-work---the-ultimate-getting-started-guide)
 
-- [Our history and values](#our-history-and-values)
+* [Our offices](https://github.com/mondora/handbook/tree/bde7c632abda98617b9dda162a6ee7a4f9d87171/our-offices/README.md)
+* [Office Guidelines](./#office-guidelines)
+* [Working from home](./#working-from-home)
+* [Working hours](./#working-hours)
+* [What to work on](./#what-to-work-on)
+* [Meeting customers](./#meeting-customers)
+* [How we work](./#how-we-work)
+* [Servant Leadership](./#servant-leadership)
+* [Failures](./#failures)
+* [Courses](./#courses)
+* [Emerging ideas](./#emerging-ideas)
 
-[Where, when and how we work - the ultimate getting started guide!](#where-when-and-how-we-work---the-ultimate-getting-started-guide)
+[Living our Mission](./#iving-our-mission)
 
-- [Our offices](our-offices)
+* [Benefit Projects - for people, community and land](./#benefit-projects---for-people-community-and-land)
+  * [HireBitto](./#hirebitto)
+  * [Cycle2Work](./#cycle2work)
+  * [Company Food](./#company-food)
+  * [Share our Break](./#share-our-break)
+* [Taking care of the environment](./#taking-care-of-the-environment)
+  * [Hiring a farmer](./#hiring-a-farmer)
+  * [Environmentally friendly workplace](./#environmentally-friendly-workplace)
+  * [Corporate travel](./#corporate-travel)
+  * [Commuting](./#commuting)
+* [Taking care of people \(that's you\)](./#taking-care-of-people-thats-you)
+  * [PSYA](./#psya)
+  * [Farmer for one day](./#farmer-for-one-day)
+  * [English lessons](./#english-lessons)
+  * [Out of office days](./#out-of-office-days)
+  * [Officevibe](./#officevibe)
+* [Taking care of the community](./#taking-care-of-the-community)
+  * [Volunteering](./#volunteering)
+  * [Interdependence Agreements](./#interdependence-agreements)
+  * [Benefit OKRs](./#benefit-okrs)
+  * [Local suppliers](./#local-suppliers)
 
-- [Office Guidelines](#office-guidelines)
+[Salaries, benefits and leave - here’s what we have to offer](./#salaries-benefits-and-leave---heres-what-we-have-to-offer)
 
-- [Working from home](#working-from-home)
+* [Salaries](./#salaries)
+* [Hiring](./#hiring)
+* [Vacation](./#vacation)
+* [Leave](./#leave)
+* [Work termination - what if I want to leave?](./#work-termination---what-if-i-want-to-leave)
+* [Whistleblower Policy](./#whistleblower-policy)
 
-- [Working hours](#working-hours)
+[Code of ethics](./#code-of-ethics)
 
-- [What to work on](#what-to-work-on)
-
-- [Meeting customers](#meeting-customers)
-
-- [How we work](#how-we-work)
-
-- [Servant Leadership](#servant-leadership)
-
-- [Failures](#failures)
-
-- [Courses](#courses)
-
-- [Emerging ideas](#emerging-ideas)
-
-[Living our Mission](#iving-our-mission)
-
-- [Benefit Projects - for people, community and land](#benefit-projects---for-people-community-and-land)
-
-  - [HireBitto](#hirebitto)
-
-  - [Cycle2Work](#cycle2work)
-
-  - [Company Food](#company-food)
-
-  - [Share our Break](#share-our-break)
-
-- [Taking care of the environment](#taking-care-of-the-environment)
-
-  - [Hiring a farmer](#hiring-a-farmer)
-
-  - [Environmentally friendly workplace](#environmentally-friendly-workplace)
-
-  - [Corporate travel](#corporate-travel)
-
-  - [Commuting](#commuting)
-
-- [Taking care of people (that's you)](#taking-care-of-people-thats-you)
-
-  - [PSYA](#psya)
-
-  - [Farmer for one day](#farmer-for-one-day)
-
-  - [English lessons](#english-lessons)
-
-  - [Out of office days](#out-of-office-days)
-
-  - [Officevibe](#officevibe)
-
-- [Taking care of the community](#taking-care-of-the-community)
-
-  - [Volunteering](#volunteering)
-
-  - [Interdependence Agreements](#interdependence-agreements)
-
-  - [Benefit OKRs](#benefit-okrs)
-
-  - [Local suppliers](#local-suppliers)
-
-[Salaries, benefits and leave - here’s what we have to offer](#salaries-benefits-and-leave---heres-what-we-have-to-offer)
-
-- [Salaries](#salaries)
-
-- [Hiring](#hiring)
-
-- [Vacation](#vacation)
-
-- [Leave](#leave)
-
-- [Work termination - what if I want to leave?](#work-termination---what-if-i-want-to-leave)
-
-- [Whistleblower Policy](#whistleblower-policy)
-
-[Code of ethics](#code-of-ethics)
-
-- [General responsibilities and policies](#general-responsibilities-and-policies)
-
-  - [B Corporation values](#b-corporation-values)
-
-  - [Contribution to society and human well-being](#contribution-to-society-and-human-well-being)
-
-  - [Honesty and trustworthiness](#honesty-and-trustworthiness)
-
-  - [Non-discrimination](#non-discrimination)
-
-  - [Property rights, copyrights and patents](#property-rights-copyrights-and-patents)
-
-  - [Privacy and confidentiality](#privacy-and-confidentiality)
-
-- [Professional responsibilities](#professional-responsibilities)
-
-  - [Quality of work](#quality-of-work)
-
-  - [Professional competence](#professional-competence)
-
-  - [Knowledge and respect of existing laws](#knowledge-and-respect-of-existing-laws)
-
-  - [Professional review](#professional-review)
-
-- [Specific responsibilities of the IT professional](#specific-responsibilities-of-the-it-professional)
-
-  - [Comprehensive evaluations](#comprehensive-evaluations)
-
-  - [Work commitment](#work-commitment)
-
-- [Compliance with the Code](#compliance-with-the-code)
+* [General responsibilities and policies](./#general-responsibilities-and-policies)
+  * [B Corporation values](./#b-corporation-values)
+  * [Contribution to society and human well-being](./#contribution-to-society-and-human-well-being)
+  * [Honesty and trustworthiness](./#honesty-and-trustworthiness)
+  * [Non-discrimination](./#non-discrimination)
+  * [Property rights, copyrights and patents](./#property-rights-copyrights-and-patents)
+  * [Privacy and confidentiality](./#privacy-and-confidentiality)
+* [Professional responsibilities](./#professional-responsibilities)
+  * [Quality of work](./#quality-of-work)
+  * [Professional competence](./#professional-competence)
+  * [Knowledge and respect of existing laws](./#knowledge-and-respect-of-existing-laws)
+  * [Professional review](./#professional-review)
+* [Specific responsibilities of the IT professional](./#specific-responsibilities-of-the-it-professional)
+  * [Comprehensive evaluations](./#comprehensive-evaluations)
+  * [Work commitment](./#work-commitment)
+* [Compliance with the Code](./#compliance-with-the-code)
 
 ## About mondora
 
@@ -202,8 +150,7 @@ Everyone in mondora uses Scrum, Kanban, DDD and embraces Agile methodologies. We
 
 ### Servant Leadership
 
-Every third Friday of the month we have a Servant Leadership meeting. The meeting is open to everyone and people who are interested take in turns participating. The aim of Servant Leadership meetings is to analyse the company ecosystem and spot any issues that could lead to or be the cause of problems, and find solutions to these. For example, if a particular problem is caused by lack of skills training, the group can suggest and organise a training course for the team. These meetings are useful in analysing the company's whole ecosystem and understanding the cause and effect of activities and issues, instead of blaming individuals when things go wrong. 
-
+Every third Friday of the month we have a Servant Leadership meeting. The meeting is open to everyone and people who are interested take in turns participating. The aim of Servant Leadership meetings is to analyse the company ecosystem and spot any issues that could lead to or be the cause of problems, and find solutions to these. For example, if a particular problem is caused by lack of skills training, the group can suggest and organise a training course for the team. These meetings are useful in analysing the company's whole ecosystem and understanding the cause and effect of activities and issues, instead of blaming individuals when things go wrong.
 
 ### Failures
 
@@ -295,7 +242,11 @@ In [this document](https://docs.google.com/spreadsheets/d/1UH1JvtDRfTn_j0LKYKr6r
 
 #### Local suppliers
 
-We have a company policy whereby we prefer local suppliers wherever possible. You can read the full document [here](https://docs.google.com/document/d/1SYzhZcqZRUL1iBavracinVK-m7yVPeu5oHkHKtTm6vY/edit?usp=sharing).
+We have a company policy whereby we prefer local suppliers wherever possible. All suppliers are screened for negative practices \(ie. no child labour!\) and we always prefer those who go beyond neutral and have a positive impact on the world: B Corps, companies that provide a public Sustainability Report, companies with which we make an Interdependence Agreement and work on a Benefit Project together.  You can read the full document [here](https://docs.google.com/document/d/1SYzhZcqZRUL1iBavracinVK-m7yVPeu5oHkHKtTm6vY/edit?usp=sharing), and you can find more information about negative practices screening in our :m Negative Impact document [here](https://docs.google.com/document/d/1UsdUkp0FPX6VlV8dBshWrIHW_4euQmaLwOWsx5Olza8/edit?usp=sharing).  
+
+
+
+
 
 ## Salaries, benefits and leave - here’s what we have to offer
 
