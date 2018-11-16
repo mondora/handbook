@@ -75,7 +75,7 @@ In this handbook you will find useful information that will help you get started
 * [Specific responsibilities of the IT professional](./#specific-responsibilities-of-the-it-professional)
   * [Comprehensive evaluations](./#comprehensive-evaluations)
   * [Work commitment](./#work-commitment)
-* [Compliance with the Code](./#compliance-with-the-code)
+* [Compliance with the Code](#compliance-with-the-code)
 
 ## About mondora
 
