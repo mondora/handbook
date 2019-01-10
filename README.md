@@ -238,7 +238,7 @@ mondora has a strong focus on creating positive impact for the local community. 
 
 #### Benefit OKRs
 
-In [this document](https://docs.google.com/spreadsheets/d/1UH1JvtDRfTn_j0LKYKr6rWKncH3FgYgPPOpkK4s1DLs/edit?usp=sharing) we have outlined the main Benefit Objectives and Key Results that we track. These targets and results are team based efforts: we do not track individual performance. Everyone can contribute to the :m team reaching its targets each quarter and you can help by tracking your contribution and adding it to the team effort. As a new employee you will receive guidance on how the OKRs work, as well as getting updates along the way during your time in mondora.
+In [this document](https://coda.io/d/m-Social-and-Environmental-OKRs_datenvlrs0t/_suFsE) we have outlined the main Benefit Objectives and Key Results that we track. These targets and results are team based efforts: we do not track individual performance. Everyone can contribute to the :m team reaching its targets each quarter and you can help by tracking your contribution and adding it to the team effort. As a new employee you will receive guidance on how the OKRs work, as well as getting updates along the way during your time in mondora.
 
 #### Local suppliers
 
