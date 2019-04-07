@@ -8,74 +8,74 @@ In this handbook you will find useful information that will help you get started
 
 [About mondora](#about-mondora)
 
-- [Our purpose and mission](#our-purpose-and-mission)
-- [Our history and values](#our-history-and-values)
+* [Our purpose and mission](#our-purpose-and-mission)
+* [Our history and values](#our-history-and-values)
 
 [Where, when and how we work - the ultimate getting started guide!](#where-when-and-how-we-work---the-ultimate-getting-started-guide)
 
-- [Our offices](https://github.com/mondora/handbook/tree/bde7c632abda98617b9dda162a6ee7a4f9d87171/our-offices/README.md)
-- [Office Guidelines](#office-guidelines)
-- [Working from home](#working-from-home)
-- [Working hours](#working-hours)
-- [What to work on](#what-to-work-on)
-- [Meeting customers](#meeting-customers)
-- [How we work](#how-we-work)
-- [Servant Leadership](#servant-leadership)
-- [Failures](#failures)
-- [Courses](#courses)
-- [Emerging ideas](#emerging-ideas)
+* [Our offices](https://github.com/mondora/handbook/tree/bde7c632abda98617b9dda162a6ee7a4f9d87171/our-offices/README.md)
+* [Office Guidelines](#office-guidelines)
+* [Working from home](#working-from-home)
+* [Working hours](#working-hours)
+* [What to work on](#what-to-work-on)
+* [Meeting customers](#meeting-customers)
+* [How we work](#how-we-work)
+* [Servant Leadership](#servant-leadership)
+* [Failures](#failures)
+* [Courses](#courses)
+* [Emerging ideas](#emerging-ideas)
 
-[Living our Mission](#iving-our-mission)
+[Living our Mission](#Living-our-mission)
 
-- [Benefit Projects - for people, community and land](#benefit-projects---for-people-community-and-land)
-  - [HireBitto](#hirebitto)
-  - [Cycle2Work](#cycle2work)
-  - [Company Food](#company-food)
-  - [Share our Break](#share-our-break)
-- [Taking care of the environment](#taking-care-of-the-environment)
-  - [Hiring a farmer](#hiring-a-farmer)
-  - [Environmentally friendly workplace](#environmentally-friendly-workplace)
-  - [Corporate travel](#corporate-travel)
-  - [Commuting](#commuting)
-- [Taking care of people \(that's you\)](#taking-care-of-people-thats-you)
-  - [PSYA](#psya)
-  - [Farmer for one day](#farmer-for-one-day)
-  - [English lessons](#english-lessons)
-  - [Out of office days](#out-of-office-days)
-  - [Officevibe](#officevibe)
-- [Taking care of the community](#taking-care-of-the-community)
-  - [Volunteering](#volunteering)
-  - [Interdependence Agreements](#interdependence-agreements)
-  - [Benefit OKRs](#benefit-okrs)
-  - [Local suppliers](#local-suppliers)
+* [Benefit Projects - for people, community and land](#benefit-projects---for-people-community-and-land)
+  * [HireBitto](#hirebitto)
+  * [Cycle2Work](#cycle2work)
+  * [Company Food](#company-food)
+  * [Share our Break](#share-our-break)
+* [Taking care of the environment](#taking-care-of-the-environment)
+  * [Hiring a farmer](#hiring-a-farmer)
+  * [Environmentally friendly workplace](#environmentally-friendly-workplace)
+  * [Corporate travel](#corporate-travel)
+  * [Commuting](#commuting)
+* [Taking care of people \(that's you\)](#taking-care-of-people-thats-you)
+  * [PSYA](#psya)
+  * [Farmer for one day](#farmer-for-one-day)
+  * [English lessons](#english-lessons)
+  * [Out of office days](#out-of-office-days)
+  * [Officevibe](#officevibe)
+* [Taking care of the community](#taking-care-of-the-community)
+  * [Volunteering](#volunteering)
+  * [Interdependence Agreements](#interdependence-agreements)
+  * [Benefit OKRs](#benefit-okrs)
+  * [Local suppliers](#local-suppliers)
 
 [Salaries, benefits and leave - here’s what we have to offer](#salaries-benefits-and-leave---heres-what-we-have-to-offer)
 
-- [Salaries](#salaries)
-- [Hiring](#hiring)
-- [Vacation](#vacation)
-- [Leave](#leave)
-- [Work termination - what if I want to leave?](#work-termination---what-if-i-want-to-leave)
-- [Whistleblower Policy](#whistleblower-policy)
+* [Salaries](#salaries)
+* [Hiring](#hiring)
+* [Vacation](#vacation)
+* [Leave](#leave)
+* [Work termination - what if I want to leave?](#work-termination---what-if-i-want-to-leave)
+* [Whistleblower Policy](#whistleblower-policy)
 
 [Code of ethics](#code-of-ethics)
 
-- [General responsibilities and policies](#general-responsibilities-and-policies)
-  - [B Corporation values](#b-corporation-values)
-  - [Contribution to society and human well-being](#contribution-to-society-and-human-well-being)
-  - [Honesty and trustworthiness](#honesty-and-trustworthiness)
-  - [Non-discrimination](#non-discrimination)
-  - [Property rights, copyrights and patents](#property-rights-copyrights-and-patents)
-  - [Privacy and confidentiality](#privacy-and-confidentiality)
-- [Professional responsibilities](#professional-responsibilities)
-  - [Quality of work](#quality-of-work)
-  - [Professional competence](#professional-competence)
-  - [Knowledge and respect of existing laws](#knowledge-and-respect-of-existing-laws)
-  - [Professional review](#professional-review)
-- [Specific responsibilities of the IT professional](#specific-responsibilities-of-the-it-professional)
-  - [Comprehensive evaluations](#comprehensive-evaluations)
-  - [Work commitment](#work-commitment)
-- [Compliance with the Code](#compliance-with-the-code)
+* [General responsibilities and policies](#general-responsibilities-and-policies)
+  * [B Corporation values](#b-corporation-values)
+  * [Contribution to society and human well-being](#contribution-to-society-and-human-well-being)
+  * [Honesty and trustworthiness](#honesty-and-trustworthiness)
+  * [Non-discrimination](#non-discrimination)
+  * [Property rights, copyrights and patents](#property-rights-copyrights-and-patents)
+  * [Privacy and confidentiality](#privacy-and-confidentiality)
+* [Professional responsibilities](#professional-responsibilities)
+  * [Quality of work](#quality-of-work)
+  * [Professional competence](#professional-competence)
+  * [Knowledge and respect of existing laws](#knowledge-and-respect-of-existing-laws)
+  * [Professional review](#professional-review)
+* [Specific responsibilities of the IT professional](#specific-responsibilities-of-the-it-professional)
+  * [Comprehensive evaluations](#comprehensive-evaluations)
+  * [Work commitment](#work-commitment)
+* [Compliance with the Code](#compliance-with-the-code)
 
 ## About mondora
 
@@ -137,10 +137,10 @@ mondora is a company with a flat structure. This means that everyone is on the s
 
 Our main communication tools are:
 
-- Slack - for team collaboration, quick decisions and general information. Some workspaces and channels are shared with customers. Browse all channels and join the ones that interest you.
-- Loomio - for important decision making. Here you can start a discussion, add your point of view to a discussion thread, cast a vote, start a poll, etc. Keep track of Loomio activity in the \#decisions channel on Slack.
-- Officevibe - for anonymous opinions and feedback. If you use this tool regularly you will be made admin and can reply to other people's feedback. Keep track of feedback through the \#feedback channel on Slack.
-- Email - for company wide announcements. We prefer Slack for most team and customer communications.
+* Slack - for team collaboration, quick decisions and general information. Some workspaces and channels are shared with customers. Browse all channels and join the ones that interest you. 
+* Loomio - for important decision making. Here you can start a discussion, add your point of view to a discussion thread, cast a vote, start a poll, etc. Keep track of Loomio activity in the \#decisions channel on Slack. 
+* Officevibe - for anonymous opinions and feedback. If you use this tool regularly you will be made admin and can reply to other people's feedback. Keep track of feedback through the \#feedback channel on Slack.  
+* Email - for company wide announcements. We prefer Slack for most team and customer communications. 
 
 In addition we have a WhatsApp group for immediate discussions and random things.
 
@@ -242,7 +242,11 @@ In [this document](https://coda.io/d/m-Social-and-Environmental-OKRs_datenvlrs0t
 
 #### Local suppliers
 
-We have a company policy whereby we prefer local suppliers wherever possible. All suppliers are screened for negative practices \(ie. no child labour!\) and we always prefer those who go beyond neutral and have a positive impact on the world: B Corps, companies that provide a public Sustainability Report, companies with which we make an Interdependence Agreement and work on a Benefit Project together. You can read the full document [here](https://docs.google.com/document/d/1SYzhZcqZRUL1iBavracinVK-m7yVPeu5oHkHKtTm6vY/edit?usp=sharing), and you can find more information about negative practices screening in our :m Negative Impact document [here](https://docs.google.com/document/d/1UsdUkp0FPX6VlV8dBshWrIHW_4euQmaLwOWsx5Olza8/edit?usp=sharing).
+We have a company policy whereby we prefer local suppliers wherever possible. All suppliers are screened for negative practices \(ie. no child labour!\) and we always prefer those who go beyond neutral and have a positive impact on the world: B Corps, companies that provide a public Sustainability Report, companies with which we make an Interdependence Agreement and work on a Benefit Project together.  You can read the full document [here](https://docs.google.com/document/d/1SYzhZcqZRUL1iBavracinVK-m7yVPeu5oHkHKtTm6vY/edit?usp=sharing), and you can find more information about negative practices screening in our :m Negative Impact document [here](https://docs.google.com/document/d/1UsdUkp0FPX6VlV8dBshWrIHW_4euQmaLwOWsx5Olza8/edit?usp=sharing).  
+
+
+
+
 
 ## Salaries, benefits and leave - here’s what we have to offer
 
