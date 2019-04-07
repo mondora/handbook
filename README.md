@@ -25,9 +25,8 @@ In this handbook you will find useful information that will help you get started
 * [Courses](#courses)
 * [Emerging ideas](#emerging-ideas)
 
-* [Living our Mission](#Living-our-mission)
-  * [Impact Development](#impact-development)
-
+[Living our Mission](#Living-our-mission)
+* [Impact Development](#impact-development)
 * [Benefit Projects - for people, community and land](#benefit-projects---for-people-community-and-land)
   * [HireBitto](#hirebitto)
   * [Cycle2Work](#cycle2work)
