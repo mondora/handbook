@@ -8,75 +8,74 @@ In this handbook you will find useful information that will help you get started
 
 [About mondora](#about-mondora)
 
-* [Our purpose and mission](#our-purpose-and-mission)
-* [Our history and values](#our-history-and-values)
+- [Our purpose and mission](#our-purpose-and-mission)
+- [Our history and values](#our-history-and-values)
 
 [Where, when and how we work - the ultimate getting started guide!](#where-when-and-how-we-work---the-ultimate-getting-started-guide)
 
-* [Our offices](https://github.com/mondora/handbook/tree/bde7c632abda98617b9dda162a6ee7a4f9d87171/our-offices/README.md)
-* [Office Guidelines](#office-guidelines)
-* [Working from home](#working-from-home)
-* [Working hours](#working-hours)
-* [What to work on](#what-to-work-on)
-* [Meeting customers](#meeting-customers)
-* [How we work](#how-we-work)
-* [Servant Leadership](#servant-leadership)
-* [Failures](#failures)
-* [Courses](#courses)
-* [Emerging ideas](#emerging-ideas)
+- [Our offices](https://github.com/mondora/handbook/tree/bde7c632abda98617b9dda162a6ee7a4f9d87171/our-offices/README.md)
+- [Office Guidelines](#office-guidelines)
+- [Working from home](#working-from-home)
+- [Working hours](#working-hours)
+- [What to work on](#what-to-work-on)
+- [Meeting customers](#meeting-customers)
+- [How we work](#how-we-work)
+- [Servant Leadership](#servant-leadership)
+- [Failures](#failures)
+- [Courses](#courses)
+- [Emerging ideas](#emerging-ideas)
 
-* [Living our Mission](#iving-our-mission)
-  * [Impact Development](#impact-development)
+[Living our Mission](#iving-our-mission)
 
-* [Benefit Projects - for people, community and land](#benefit-projects---for-people-community-and-land)
-  * [HireBitto](#hirebitto)
-  * [Cycle2Work](#cycle2work)
-  * [Company Food](#company-food)
-  * [Share our Break](#share-our-break)
-* [Taking care of the environment](#taking-care-of-the-environment)
-  * [Hiring a farmer](#hiring-a-farmer)
-  * [Environmentally friendly workplace](#environmentally-friendly-workplace)
-  * [Corporate travel](#corporate-travel)
-  * [Commuting](#commuting)
-* [Taking care of people \(that's you\)](#taking-care-of-people-thats-you)
-  * [Farmer for one day](#farmer-for-one-day)
-  * [English lessons](#english-lessons)
-  * [Out of office days](#out-of-office-days)
-  * [Officevibe](#officevibe)
-  * [Letter Of interdependence](#Letter-Of-interdependence)
-* [Taking care of the community](#taking-care-of-the-community)
-  * [Volunteering](#volunteering)
-  * [Interdependence Agreements](#interdependence-agreements)
-  * [Benefit OKRs](#benefit-okrs)
-  * [Local suppliers](#local-suppliers)
+- [Benefit Projects - for people, community and land](#benefit-projects---for-people-community-and-land)
+  - [HireBitto](#hirebitto)
+  - [Cycle2Work](#cycle2work)
+  - [Company Food](#company-food)
+  - [Share our Break](#share-our-break)
+- [Taking care of the environment](#taking-care-of-the-environment)
+  - [Hiring a farmer](#hiring-a-farmer)
+  - [Environmentally friendly workplace](#environmentally-friendly-workplace)
+  - [Corporate travel](#corporate-travel)
+  - [Commuting](#commuting)
+- [Taking care of people \(that's you\)](#taking-care-of-people-thats-you)
+  - [PSYA](#psya)
+  - [Farmer for one day](#farmer-for-one-day)
+  - [English lessons](#english-lessons)
+  - [Out of office days](#out-of-office-days)
+  - [Officevibe](#officevibe)
+- [Taking care of the community](#taking-care-of-the-community)
+  - [Volunteering](#volunteering)
+  - [Interdependence Agreements](#interdependence-agreements)
+  - [Benefit OKRs](#benefit-okrs)
+  - [Local suppliers](#local-suppliers)
 
 [Salaries, benefits and leave - here’s what we have to offer](#salaries-benefits-and-leave---heres-what-we-have-to-offer)
 
-* [Salaries](#salaries)
-* [Hiring](#hiring)
-* [Vacation](#vacation)
-* [Leave](#leave)
-* [Work termination - what if I want to leave?](#work-termination---what-if-i-want-to-leave)
-* [Whistleblower Policy](#whistleblower-policy)
+- [Salaries](#salaries)
+- [Hiring](#hiring)
+- [Vacation](#vacation)
+- [Leave](#leave)
+- [Work termination - what if I want to leave?](#work-termination---what-if-i-want-to-leave)
+- [Whistleblower Policy](#whistleblower-policy)
 
 [Code of ethics](#code-of-ethics)
 
-* [General responsibilities and policies](#general-responsibilities-and-policies)
-  * [B Corporation values](#b-corporation-values)
-  * [Contribution to society and human well-being](#contribution-to-society-and-human-well-being)
-  * [Honesty and trustworthiness](#honesty-and-trustworthiness)
-  * [Non-discrimination](#non-discrimination)
-  * [Property rights, copyrights and patents](#property-rights-copyrights-and-patents)
-  * [Privacy and confidentiality](#privacy-and-confidentiality)
-* [Professional responsibilities](#professional-responsibilities)
-  * [Quality of work](#quality-of-work)
-  * [Professional competence](#professional-competence)
-  * [Knowledge and respect of existing laws](#knowledge-and-respect-of-existing-laws)
-  * [Professional review](#professional-review)
-* [Specific responsibilities of the IT professional](#specific-responsibilities-of-the-it-professional)
-  * [Comprehensive evaluations](#comprehensive-evaluations)
-  * [Work commitment](#work-commitment)
-* [Compliance with the Code](#compliance-with-the-code)
+- [General responsibilities and policies](#general-responsibilities-and-policies)
+  - [B Corporation values](#b-corporation-values)
+  - [Contribution to society and human well-being](#contribution-to-society-and-human-well-being)
+  - [Honesty and trustworthiness](#honesty-and-trustworthiness)
+  - [Non-discrimination](#non-discrimination)
+  - [Property rights, copyrights and patents](#property-rights-copyrights-and-patents)
+  - [Privacy and confidentiality](#privacy-and-confidentiality)
+- [Professional responsibilities](#professional-responsibilities)
+  - [Quality of work](#quality-of-work)
+  - [Professional competence](#professional-competence)
+  - [Knowledge and respect of existing laws](#knowledge-and-respect-of-existing-laws)
+  - [Professional review](#professional-review)
+- [Specific responsibilities of the IT professional](#specific-responsibilities-of-the-it-professional)
+  - [Comprehensive evaluations](#comprehensive-evaluations)
+  - [Work commitment](#work-commitment)
+- [Compliance with the Code](#compliance-with-the-code)
 
 ## About mondora
 
@@ -138,10 +137,10 @@ mondora is a company with a flat structure. This means that everyone is on the s
 
 Our main communication tools are:
 
-* Slack - for team collaboration, quick decisions and general information. Some workspaces and channels are shared with customers. Browse all channels and join the ones that interest you.
-* Loomio - for important decision making. Here you can start a discussion, add your point of view to a discussion thread, cast a vote, start a poll, etc. Keep track of Loomio activity in the \#decisions channel on Slack.
-* Officevibe - for anonymous opinions and feedback. If you use this tool regularly you will be made admin and can reply to other people's feedback. Keep track of feedback through the \#feedback channel on Slack.  
-* Email - for company wide announcements. We prefer Slack for most team and customer communications.
+- Slack - for team collaboration, quick decisions and general information. Some workspaces and channels are shared with customers. Browse all channels and join the ones that interest you.
+- Loomio - for important decision making. Here you can start a discussion, add your point of view to a discussion thread, cast a vote, start a poll, etc. Keep track of Loomio activity in the \#decisions channel on Slack.
+- Officevibe - for anonymous opinions and feedback. If you use this tool regularly you will be made admin and can reply to other people's feedback. Keep track of feedback through the \#feedback channel on Slack.
+- Email - for company wide announcements. We prefer Slack for most team and customer communications.
 
 In addition we have a WhatsApp group for immediate discussions and random things.
 
@@ -168,9 +167,6 @@ Emerging ideas are fully supported and are the future for the company business. 
 ## Living our Mission
 
 Now that you’ve read all about our company purpose, mission and values, and know a bit more about how mondora is organised and functions, you may be asking yourself how these things all fit together. How do we take care of people, of the local community, and of the land in day-by-day activities whilst also building great software and engaging with our customers? Here’s how it all works, and how you can take part in the benefit creating activities that define mondora as a [New Normal company!](https://bcalmbcorp.com/some-old-normal-company-oddities-255a84202552)
-
-## Impact Development
-The impact we are creating is within every action we do. As part of a system, we all agree that we have to take care of all the possibilities we can work out to build positive impact. A Slack channel #insights is dedicated to all the things we encounter in our professional life and where we think we can produce more. You are required to suggest all the things you want the company to follow up that can be useful for every stakeholder. We have some colleagues who have a specific hat of Impact Developers and who are willing to go further (for the world) with the insight.
 
 ### Benefit Projects - for people, community and land
 
@@ -210,6 +206,10 @@ When commuting to and from the office, please be mindful of the environment. If 
 
 ### Taking care of people \(that's you\)
 
+#### PSYA
+
+mondora has partnered with PSYA to offer all employees and their families a free and anonymous counselling service. PSYA has seven trained psychologists who are available on the phone 24/7. You can call them and speak to someone for both work related and personal issues and you don’t have to give your real name. There is also a live chat service available in the daytime through PSYA’s website. Please check out [this presentation](https://docs.google.com/presentation/d/12mUO43tkFL8HwsQEaanNM-rjHYEk-Av5EV_vkvlnpOQ/edit?usp=sharing) for all the info.
+
 #### Farmer for one day
 
 If you are experiencing a period of stress, or would just like to try something different once in a while, you have the possibility to join the mondora farmers for a day or more of work in the fields. Work is seasonal and varied, and can also be a great opportunity to learn something new! Just ask your farmer colleagues what they need help with - and don’t forget to notify your team that you will be offline for a while. Happy farming!
@@ -225,10 +225,6 @@ The office is a great place to work from, but occasionally we get together and w
 #### Officevibe
 
 We use Officevibe to measure employee happiness and satisfaction at work. Through this platform you can express your opinion and leave anonymous feedback. Everyone who actively participates in Officevibe surveys is made admin and can reply to feedback, so that we all help each other in solving problems and issues as they arise.
-
-#### Letter Of Interdependence
-
-We believe with the idea that we are part of a system and, when it is required, others inside the company help others. We think we are all inter-connected. If you were thinking you can maintain a mate why don't you send a message in any form declaring that you can help and saying how you will improve. Don't forget to declare your commitment also in a timeframe.
 
 ### Taking care of the community
 
@@ -246,11 +242,7 @@ In [this document](https://coda.io/d/m-Social-and-Environmental-OKRs_datenvlrs0t
 
 #### Local suppliers
 
-We have a company policy whereby we prefer local suppliers wherever possible. All suppliers are screened for negative practices \(ie. no child labour!\) and we always prefer those who go beyond neutral and have a positive impact on the world: B Corps, companies that provide a public Sustainability Report, companies with which we make an Interdependence Agreement and work on a Benefit Project together.  You can read the full document [here](https://docs.google.com/document/d/1SYzhZcqZRUL1iBavracinVK-m7yVPeu5oHkHKtTm6vY/edit?usp=sharing), and you can find more information about negative practices screening in our :m Negative Impact document [here](https://docs.google.com/document/d/1UsdUkp0FPX6VlV8dBshWrIHW_4euQmaLwOWsx5Olza8/edit?usp=sharing).  
-
-
-
-
+We have a company policy whereby we prefer local suppliers wherever possible. All suppliers are screened for negative practices \(ie. no child labour!\) and we always prefer those who go beyond neutral and have a positive impact on the world: B Corps, companies that provide a public Sustainability Report, companies with which we make an Interdependence Agreement and work on a Benefit Project together. You can read the full document [here](https://docs.google.com/document/d/1SYzhZcqZRUL1iBavracinVK-m7yVPeu5oHkHKtTm6vY/edit?usp=sharing), and you can find more information about negative practices screening in our :m Negative Impact document [here](https://docs.google.com/document/d/1UsdUkp0FPX6VlV8dBshWrIHW_4euQmaLwOWsx5Olza8/edit?usp=sharing).
 
 ## Salaries, benefits and leave - here’s what we have to offer
 
@@ -297,9 +289,6 @@ During the first six months of your time with us \(trial period\), you are free 
 After the trial period, termination notice has to be given in writing, both by you and by mondora, following the termination notice periods outlined in the C.C.N.L. METALMECCANICI, which vary according to your professional level and period of work. The termination notice period starts from the middle or end of each month. If one party terminates the contract without following the termination notice period rules correctly, or without giving notice, that party will have to pay for the remainder of the termination time.
 
 Once you have handed in your termination notice, you are expected to gradually decrease your workload until the day you leave. During this time you should ensure you close all open activities, or pass them on to a colleague. You will no longer accept new projects or work fully on current projects. This is to ensure that nothing is left unfinished and that a colleague can easily continue the work once you have left.
-
-#### Parachute
-We believe that the company is a platform where people can develop their talents. People are people also outside the company, and we think we should help people leave the company without to much stress. The Parachute is the option that the company gives to a colleague who is going to come back in 12 months at the same salary. When leaving we will ask all the peers if to provide the parachute with and if the 10% is favorable add the parachute letter in case you want to come back within 12 months.
 
 ### Whistleblower Policy
 
