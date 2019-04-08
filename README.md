@@ -53,6 +53,7 @@ In this handbook you will find useful information that will help you get started
 [Salaries, benefits and leave - here’s what we have to offer](#salaries-benefits-and-leave---heres-what-we-have-to-offer)
 
 * [Salaries](#salaries)
+  * [MBO and awards](#MBO-and-awards)
 * [Hiring](#hiring)
 * [Vacation](#vacation)
 * [Leave](#leave)
@@ -270,6 +271,9 @@ In addition to your monthly salary, mondora also pays €8 per working day for l
 Further, you can claim back travel expenses for journeys to customer offices through the appropriate form \(ask our admin guru Lucia for the form\).
 
 Many players in mondora have chosen to publish their salary internally for others to see. As a new employee you can choose if you would also like to publish your salary, and if you wish to see others' salaries. In order to access this information you must join the Slack channel \#salaries. Here you will then find a spreadsheet with salary info and you can add your own if you like.
+
+#### MBO and awards
+The company is a place where each of us takes care of the rest. That's why we love the idea of giving a prize to teams instead of individuals. A shared award is within a timeframe where the team is self-distributing it. If the expiry date of the grant comes, the prize goes in a pool and used for other projects. You are suggested to think in the perspective of a colleague and to try understanding why is essential have that money on her view.
 
 ### Hiring
 
