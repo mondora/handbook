@@ -38,6 +38,7 @@ In this handbook you will find useful information that will help you get started
   * [Corporate travel](#corporate-travel)
   * [Commuting](#commuting)
 * [Taking care of people \(that's you\)](#taking-care-of-people-thats-you)
+  * [Ask me anything](#ask-me-anything)
   * [Farmer for one day](#farmer-for-one-day)
   * [English lessons](#english-lessons)
   * [Out of office days](#out-of-office-days)
@@ -208,6 +209,9 @@ We try to limit corporate travel by choosing video conferencing whenever possibl
 When commuting to and from the office, please be mindful of the environment. If you like cycling you can join Cycle2Work and earn € 0.20/km for your commutes. If you wish to travel by car, ask your colleagues who is passing by and share the trip. Public transport options are also available, although they are not very convenient at our current location and you may need to arrange to be picked up at the train station.
 
 ### Taking care of people \(that's you\)
+
+#### Ask me anything
+Openness is one of our core values; we believe that we can be open with our colleagues and share almost anything. Ask me anything is a moment where your colleagues can ask you anything. There is a slack channel #ama where you can post your requests (also anonymously) and you or your mate can answer to all the questions. You can host an AMA or organize it.
 
 #### Farmer for one day
 
