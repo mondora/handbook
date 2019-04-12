@@ -171,7 +171,7 @@ Emerging ideas are fully supported and are the future for the company business. 
 Now that you’ve read all about our company purpose, mission and values, and know a bit more about how mondora is organised and functions, you may be asking yourself how these things all fit together. How do we take care of people, of the local community, and of the land in day-by-day activities whilst also building great software and engaging with our customers? Here’s how it all works, and how you can take part in the benefit creating activities that define mondora as a [New Normal company!](https://bcalmbcorp.com/some-old-normal-company-oddities-255a84202552)
 
 ## Impact Development
-The impact we are creating is within every action we do. As part of a system, we all agree that we have to take care of all the possibilities we can work out to build positive impact. A Slack channel #insights is dedicated to all the things we encounter in our professional life and where we think we can produce more. You are required to suggest all the things you want the company to follow up that can be useful for every stakeholder. We have some colleagues who have a specific hat of Impact Developers and who are willing to go further (for the world) with the insight.
+We create impact with our every action within the company. As part of a system, we all agree to take care of all the chances we have to build positive impact. We use the Slack channel #insights to share any interesting opportunities that may arise in which we believe there is the possibility of creating positive impact. Here you can suggest opportunities that you would like the company to follow up and that can be useful for our stakeholders. We have colleagues working specifically as Impact Developers and who are willing to go further (for the world) with the insight.
 
 ### Benefit Projects - for people, community and land
 
@@ -212,7 +212,7 @@ When commuting to and from the office, please be mindful of the environment. If 
 ### Taking care of people \(that's you\)
 
 #### Ask me anything
-Openness is one of our core values; we believe that we can be open with our colleagues and share almost anything. Ask me anything is a moment where your colleagues can ask you anything. There is a slack channel #ama where you can post your requests (also anonymously) and you or your mate can answer to all the questions. You can host an AMA or organize it.
+Openness is one of our core values; we believe that we can be open with our colleagues and share almost anything. Ask me anything is a moment in which your colleagues can ask you any question. There is a slack channel #ama in which you can post your questions (also anonymously) and you or your colleagues can choose to answer the questions. You can host an AMA or organize it whenever you like!
 
 #### Farmer for one day
 
@@ -232,7 +232,7 @@ We use Officevibe to measure employee happiness and satisfaction at work. Throug
 
 #### Letter Of Interdependence
 
-We believe with the idea that we are part of a system and, when it is required, others inside the company help others. We think we are all inter-connected. If you were thinking you can maintain a mate why don't you send a message in any form declaring that you can help and saying how you will improve. Don't forget to declare your commitment also in a timeframe.
+We believe that we are part of a system and, when it is required, people inside the company help each other: we believe that we are all interconnected. If you think that you could help out a teammate, you can send them a message in any form declaring that you wish help and explaining how this will make both of you improve. Don't forget to declare your commitment in a set timeframe.
 
 ### Taking care of the community
 
@@ -273,7 +273,7 @@ Further, you can claim back travel expenses for journeys to customer offices thr
 Many players in mondora have chosen to publish their salary internally for others to see. As a new employee you can choose if you would also like to publish your salary, and if you wish to see others' salaries. In order to access this information you must join the Slack channel \#salaries. Here you will then find a spreadsheet with salary info and you can add your own if you like.
 
 #### MBO and awards
-The company is a place where each of us takes care of the rest. That's why we love the idea of giving a prize to teams instead of individuals. A shared award is within a timeframe where the team is self-distributing it. If the expiry date of the grant comes, the prize goes in a pool and used for other projects. You are suggested to think in the perspective of a colleague and to try understanding why is essential have that money on her view.
+The company is a place where each of us takes care of the rest. That's why we love the idea of giving a prize to teams instead of individuals. Bonuses are distributed to the whole team who has to share it out in a specific timeframe. If the team is not able to agree on how to share the bonus in the specified time, the whole sum will be used for other projects instead. The idea is to think about the bonus from the perspective of your colleagues and try to understand why it would be essential for them to receive it.
 
 ### Hiring
 
@@ -306,7 +306,7 @@ After the trial period, termination notice has to be given in writing, both by y
 Once you have handed in your termination notice, you are expected to gradually decrease your workload until the day you leave. During this time you should ensure you close all open activities, or pass them on to a colleague. You will no longer accept new projects or work fully on current projects. This is to ensure that nothing is left unfinished and that a colleague can easily continue the work once you have left.
 
 #### Parachute
-We believe that the company is a platform where people can develop their talents. People are people also outside the company, and we think we should help people leave the company without to much stress. The Parachute is the option that the company gives to a colleague who is going to come back in 12 months at the same salary. When leaving we will ask all the peers if to provide the parachute with and if the 10% is favorable add the parachute letter in case you want to come back within 12 months.
+We believe that the company is a platform in which everyone can develop their talents. As we value our colleagues inside the company, we also value them when they wish to leave, so we think we should help people leave without to much stress. Our Parachute policy gives everyone the option to return to the company within 12 months of leaving, and receive the same salary. When someone decides to leave we will ask all colleagues to agree to the parachute policy option: as long as 10% of the company workforce is favorable the person leaving will receive a letter in which this option is specified and agreed.
 
 ### Whistleblower Policy
 
