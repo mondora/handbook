@@ -26,7 +26,7 @@ In this handbook you will find useful information that will help you get started
 * [Emerging ideas](#emerging-ideas)
 
 [Living our Mission](#Living-our-mission)
-
+* [Impact Development](#impact-development)
 * [Benefit Projects - for people, community and land](#benefit-projects---for-people-community-and-land)
   * [HireBitto](#hirebitto)
   * [Cycle2Work](#cycle2work)
@@ -38,11 +38,12 @@ In this handbook you will find useful information that will help you get started
   * [Corporate travel](#corporate-travel)
   * [Commuting](#commuting)
 * [Taking care of people \(that's you\)](#taking-care-of-people-thats-you)
-  * [PSYA](#psya)
+  * [Ask me anything](#ask-me-anything)
   * [Farmer for one day](#farmer-for-one-day)
   * [English lessons](#english-lessons)
   * [Out of office days](#out-of-office-days)
   * [Officevibe](#officevibe)
+  * [Letter Of interdependence](#Letter-Of-interdependence)
 * [Taking care of the community](#taking-care-of-the-community)
   * [Volunteering](#volunteering)
   * [Interdependence Agreements](#interdependence-agreements)
@@ -52,6 +53,7 @@ In this handbook you will find useful information that will help you get started
 [Salaries, benefits and leave - here’s what we have to offer](#salaries-benefits-and-leave---heres-what-we-have-to-offer)
 
 * [Salaries](#salaries)
+  * [MBO and awards](#MBO-and-awards)
 * [Hiring](#hiring)
 * [Vacation](#vacation)
 * [Leave](#leave)
@@ -137,10 +139,10 @@ mondora is a company with a flat structure. This means that everyone is on the s
 
 Our main communication tools are:
 
-* Slack - for team collaboration, quick decisions and general information. Some workspaces and channels are shared with customers. Browse all channels and join the ones that interest you. 
-* Loomio - for important decision making. Here you can start a discussion, add your point of view to a discussion thread, cast a vote, start a poll, etc. Keep track of Loomio activity in the \#decisions channel on Slack. 
+* Slack - for team collaboration, quick decisions and general information. Some workspaces and channels are shared with customers. Browse all channels and join the ones that interest you.
+* Loomio - for important decision making. Here you can start a discussion, add your point of view to a discussion thread, cast a vote, start a poll, etc. Keep track of Loomio activity in the \#decisions channel on Slack.
 * Officevibe - for anonymous opinions and feedback. If you use this tool regularly you will be made admin and can reply to other people's feedback. Keep track of feedback through the \#feedback channel on Slack.  
-* Email - for company wide announcements. We prefer Slack for most team and customer communications. 
+* Email - for company wide announcements. We prefer Slack for most team and customer communications.
 
 In addition we have a WhatsApp group for immediate discussions and random things.
 
@@ -167,6 +169,9 @@ Emerging ideas are fully supported and are the future for the company business. 
 ## Living our Mission
 
 Now that you’ve read all about our company purpose, mission and values, and know a bit more about how mondora is organised and functions, you may be asking yourself how these things all fit together. How do we take care of people, of the local community, and of the land in day-by-day activities whilst also building great software and engaging with our customers? Here’s how it all works, and how you can take part in the benefit creating activities that define mondora as a [New Normal company!](https://bcalmbcorp.com/some-old-normal-company-oddities-255a84202552)
+
+## Impact Development
+We create impact with our every action within the company. As part of a system, we all agree to take care of all the chances we have to build positive impact. We use the Slack channel #insights to share any interesting opportunities that may arise in which we believe there is the possibility of creating positive impact. Here you can suggest opportunities that you would like the company to follow up and that can be useful for our stakeholders. We have colleagues working specifically as Impact Developers and who are willing to go further (for the world) with the insight.
 
 ### Benefit Projects - for people, community and land
 
@@ -206,9 +211,8 @@ When commuting to and from the office, please be mindful of the environment. If 
 
 ### Taking care of people \(that's you\)
 
-#### PSYA
-
-mondora has partnered with PSYA to offer all employees and their families a free and anonymous counselling service. PSYA has seven trained psychologists who are available on the phone 24/7. You can call them and speak to someone for both work related and personal issues and you don’t have to give your real name. There is also a live chat service available in the daytime through PSYA’s website. Please check out [this presentation](https://docs.google.com/presentation/d/12mUO43tkFL8HwsQEaanNM-rjHYEk-Av5EV_vkvlnpOQ/edit?usp=sharing) for all the info.
+#### Ask me anything
+Openness is one of our core values; we believe that we can be open with our colleagues and share almost anything. Ask me anything is a moment in which your colleagues can ask you any question. There is a slack channel #ama in which you can post your questions (also anonymously) and you or your colleagues can choose to answer the questions. You can host an AMA or organize it whenever you like!
 
 #### Farmer for one day
 
@@ -225,6 +229,10 @@ The office is a great place to work from, but occasionally we get together and w
 #### Officevibe
 
 We use Officevibe to measure employee happiness and satisfaction at work. Through this platform you can express your opinion and leave anonymous feedback. Everyone who actively participates in Officevibe surveys is made admin and can reply to feedback, so that we all help each other in solving problems and issues as they arise.
+
+#### Letter Of Interdependence
+
+We believe that we are part of a system and, when it is required, people inside the company help each other: we believe that we are all interconnected. If you think that you could help out a teammate, you can send them a message in any form declaring that you wish help and explaining how this will make both of you improve. Don't forget to declare your commitment in a set timeframe.
 
 ### Taking care of the community
 
@@ -264,6 +272,9 @@ Further, you can claim back travel expenses for journeys to customer offices thr
 
 Many players in mondora have chosen to publish their salary internally for others to see. As a new employee you can choose if you would also like to publish your salary, and if you wish to see others' salaries. In order to access this information you must join the Slack channel \#salaries. Here you will then find a spreadsheet with salary info and you can add your own if you like.
 
+#### MBO and awards
+The company is a place where each of us takes care of the rest. That's why we love the idea of giving a prize to teams instead of individuals. Bonuses are distributed to the whole team who has to share it out in a specific timeframe. If the team is not able to agree on how to share the bonus in the specified time, the whole sum will be used for other projects instead. The idea is to think about the bonus from the perspective of your colleagues and try to understand why it would be essential for them to receive it.
+
 ### Hiring
 
 If you’re working more than 40 hours a week, or you see a further opportunity with a customer, you’re required to agree how to tackle this extra work with your colleagues. Once you have agreed with your team that you require extra help, you and your colleagues can then start the hiring process.
@@ -293,6 +304,9 @@ During the first six months of your time with us \(trial period\), you are free 
 After the trial period, termination notice has to be given in writing, both by you and by mondora, following the termination notice periods outlined in the C.C.N.L. METALMECCANICI, which vary according to your professional level and period of work. The termination notice period starts from the middle or end of each month. If one party terminates the contract without following the termination notice period rules correctly, or without giving notice, that party will have to pay for the remainder of the termination time.
 
 Once you have handed in your termination notice, you are expected to gradually decrease your workload until the day you leave. During this time you should ensure you close all open activities, or pass them on to a colleague. You will no longer accept new projects or work fully on current projects. This is to ensure that nothing is left unfinished and that a colleague can easily continue the work once you have left.
+
+#### Parachute
+We believe that the company is a platform in which everyone can develop their talents. As we value our colleagues inside the company, we also value them when they wish to leave, so we think we should help people leave without to much stress. Our Parachute policy gives everyone the option to return to the company within 12 months of leaving, and receive the same salary. When someone decides to leave we will ask all colleagues to agree to the parachute policy option: as long as 10% of the company workforce is favorable the person leaving will receive a letter in which this option is specified and agreed.
 
 ### Whistleblower Policy
 
