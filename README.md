@@ -6,78 +6,79 @@ In this handbook you will find useful information that will help you get started
 
 ## Table of Contents
 
-[About mondora](#about-mondora)
+[About mondora](./#about-mondora)
 
-* [Our purpose and mission](#our-purpose-and-mission)
-* [Our history and values](#our-history-and-values)
+* [Our purpose and mission](./#our-purpose-and-mission)
+* [Our history and values](./#our-history-and-values)
 
-[Where, when and how we work - the ultimate getting started guide!](#where-when-and-how-we-work---the-ultimate-getting-started-guide)
+[Where, when and how we work - the ultimate getting started guide!](./#where-when-and-how-we-work---the-ultimate-getting-started-guide)
 
 * [Our offices](https://github.com/mondora/handbook/tree/bde7c632abda98617b9dda162a6ee7a4f9d87171/our-offices/README.md)
-* [Office Guidelines](#office-guidelines)
-* [Working from home](#working-from-home)
-* [Working hours](#working-hours)
-* [What to work on](#what-to-work-on)
-* [Meeting customers](#meeting-customers)
-* [How we work](#how-we-work)
-* [Servant Leadership](#servant-leadership)
-* [Failures](#failures)
-* [Courses](#courses)
-* [Emerging ideas](#emerging-ideas)
+* [Office Guidelines](./#office-guidelines)
+* [Working from home](./#working-from-home)
+* [Working hours](./#working-hours)
+* [What to work on](./#what-to-work-on)
+* [Meeting customers](./#meeting-customers)
+* [How we work](./#how-we-work)
+* [Servant Leadership](./#servant-leadership)
+* [Failures](./#failures)
+* [Courses](./#courses)
+* [Emerging ideas](./#emerging-ideas)
 
-[Living our Mission](#Living-our-mission)
-* [Impact Development](#impact-development)
-* [Benefit Projects - for people, community and land](#benefit-projects---for-people-community-and-land)
-  * [HireBitto](#hirebitto)
-  * [Cycle2Work](#cycle2work)
-  * [Company Food](#company-food)
-  * [Share our Break](#share-our-break)
-* [Taking care of the environment](#taking-care-of-the-environment)
-  * [Hiring a farmer](#hiring-a-farmer)
-  * [Environmentally friendly workplace](#environmentally-friendly-workplace)
-  * [Corporate travel](#corporate-travel)
-  * [Commuting](#commuting)
-* [Taking care of people \(that's you\)](#taking-care-of-people-thats-you)
-  * [Ask me anything](#ask-me-anything)
-  * [Farmer for one day](#farmer-for-one-day)
-  * [English lessons](#english-lessons)
-  * [Out of office days](#out-of-office-days)
-  * [Officevibe](#officevibe)
-  * [Letter Of interdependence](#Letter-Of-interdependence)
-* [Taking care of the community](#taking-care-of-the-community)
-  * [Volunteering](#volunteering)
-  * [Interdependence Agreements](#interdependence-agreements)
-  * [Benefit OKRs](#benefit-okrs)
-  * [Local suppliers](#local-suppliers)
+[Living our Mission](./#Living-our-mission)
 
-[Salaries, benefits and leave - here’s what we have to offer](#salaries-benefits-and-leave---heres-what-we-have-to-offer)
+* [Impact Development](./#impact-development)
+* [Benefit Projects - for people, community and land](./#benefit-projects---for-people-community-and-land)
+  * [HireBitto](./#hirebitto)
+  * [Cycle2Work](./#cycle2work)
+  * [Company Food](./#company-food)
+  * [Share our Break](./#share-our-break)
+* [Taking care of the environment](./#taking-care-of-the-environment)
+  * [Hiring a farmer](./#hiring-a-farmer)
+  * [Environmentally friendly workplace](./#environmentally-friendly-workplace)
+  * [Corporate travel](./#corporate-travel)
+  * [Commuting](./#commuting)
+* [Taking care of people \(that's you\)](./#taking-care-of-people-thats-you)
+  * [Ask me anything](./#ask-me-anything)
+  * [Farmer for one day](./#farmer-for-one-day)
+  * [English lessons](./#english-lessons)
+  * [Out of office days](./#out-of-office-days)
+  * [Officevibe](./#officevibe)
+  * [Letter Of interdependence](./#Letter-Of-interdependence)
+* [Taking care of the community](./#taking-care-of-the-community)
+  * [Volunteering](./#volunteering)
+  * [Interdependence Agreements](./#interdependence-agreements)
+  * [Benefit OKRs](./#benefit-okrs)
+  * [Local suppliers](./#local-suppliers)
 
-* [Salaries](#salaries)
-  * [MBO and awards](#MBO-and-awards)
-* [Hiring](#hiring)
-* [Vacation](#vacation)
-* [Leave](#leave)
-* [Work termination - what if I want to leave?](#work-termination---what-if-i-want-to-leave)
-* [Whistleblower Policy](#whistleblower-policy)
+[Salaries, benefits and leave - here’s what we have to offer](./#salaries-benefits-and-leave---heres-what-we-have-to-offer)
 
-[Code of ethics](#code-of-ethics)
+* [Salaries](./#salaries)
+  * [MBO and awards](./#MBO-and-awards)
+* [Hiring](./#hiring)
+* [Vacation](./#vacation)
+* [Leave](./#leave)
+* [Work termination - what if I want to leave?](./#work-termination---what-if-i-want-to-leave)
+* [Whistleblower Policy](./#whistleblower-policy)
 
-* [General responsibilities and policies](#general-responsibilities-and-policies)
-  * [B Corporation values](#b-corporation-values)
-  * [Contribution to society and human well-being](#contribution-to-society-and-human-well-being)
-  * [Honesty and trustworthiness](#honesty-and-trustworthiness)
-  * [Non-discrimination](#non-discrimination)
-  * [Property rights, copyrights and patents](#property-rights-copyrights-and-patents)
-  * [Privacy and confidentiality](#privacy-and-confidentiality)
-* [Professional responsibilities](#professional-responsibilities)
-  * [Quality of work](#quality-of-work)
-  * [Professional competence](#professional-competence)
-  * [Knowledge and respect of existing laws](#knowledge-and-respect-of-existing-laws)
-  * [Professional review](#professional-review)
-* [Specific responsibilities of the IT professional](#specific-responsibilities-of-the-it-professional)
-  * [Comprehensive evaluations](#comprehensive-evaluations)
-  * [Work commitment](#work-commitment)
-* [Compliance with the Code](#compliance-with-the-code)
+[Code of ethics](./#code-of-ethics)
+
+* [General responsibilities and policies](./#general-responsibilities-and-policies)
+  * [B Corporation values](./#b-corporation-values)
+  * [Contribution to society and human well-being](./#contribution-to-society-and-human-well-being)
+  * [Honesty and trustworthiness](./#honesty-and-trustworthiness)
+  * [Non-discrimination](./#non-discrimination)
+  * [Property rights, copyrights and patents](./#property-rights-copyrights-and-patents)
+  * [Privacy and confidentiality](./#privacy-and-confidentiality)
+* [Professional responsibilities](./#professional-responsibilities)
+  * [Quality of work](./#quality-of-work)
+  * [Professional competence](./#professional-competence)
+  * [Knowledge and respect of existing laws](./#knowledge-and-respect-of-existing-laws)
+  * [Professional review](./#professional-review)
+* [Specific responsibilities of the IT professional](./#specific-responsibilities-of-the-it-professional)
+  * [Comprehensive evaluations](./#comprehensive-evaluations)
+  * [Work commitment](./#work-commitment)
+* [Compliance with the Code](./#compliance-with-the-code)
 
 ## About mondora
 
@@ -171,7 +172,8 @@ Emerging ideas are fully supported and are the future for the company business. 
 Now that you’ve read all about our company purpose, mission and values, and know a bit more about how mondora is organised and functions, you may be asking yourself how these things all fit together. How do we take care of people, of the local community, and of the land in day-by-day activities whilst also building great software and engaging with our customers? Here’s how it all works, and how you can take part in the benefit creating activities that define mondora as a [New Normal company!](https://bcalmbcorp.com/some-old-normal-company-oddities-255a84202552)
 
 ## Impact Development
-We create impact with our every action within the company. As part of a system, we all agree to take care of all the chances we have to build positive impact. We use the Slack channel #insights to share any interesting opportunities that may arise in which we believe there is the possibility of creating positive impact. Here you can suggest opportunities that you would like the company to follow up and that can be useful for our stakeholders. We have colleagues working specifically as Impact Developers and who are willing to go further (for the world) with the insight.
+
+We create impact with our every action within the company. As part of a system, we all agree to take care of all the chances we have to build positive impact. We use the Slack channel \#insights to share any interesting opportunities that may arise in which we believe there is the possibility of creating positive impact. Here you can suggest opportunities that you would like the company to follow up and that can be useful for our stakeholders. We have colleagues working specifically as Impact Developers and who are willing to go further \(for the world\) with the insight.
 
 ### Benefit Projects - for people, community and land
 
@@ -212,7 +214,8 @@ When commuting to and from the office, please be mindful of the environment. If 
 ### Taking care of people \(that's you\)
 
 #### Ask me anything
-Openness is one of our core values; we believe that we can be open with our colleagues and share almost anything. Ask me anything is a moment in which your colleagues can ask you any question. There is a slack channel #ama in which you can post your questions (also anonymously) and you or your colleagues can choose to answer the questions. You can host an AMA or organize it whenever you like!
+
+Openness is one of our core values; we believe that we can be open with our colleagues and share almost anything. Ask me anything is a moment in which your colleagues can ask you any question. There is a slack channel \#ama in which you can post your questions \(also anonymously\) and you or your colleagues can choose to answer the questions. You can host an AMA or organize it whenever you like!
 
 #### Farmer for one day
 
@@ -250,11 +253,7 @@ In [this document](https://coda.io/d/m-Social-and-Environmental-OKRs_datenvlrs0t
 
 #### Local suppliers
 
-We have a company policy whereby we prefer local suppliers wherever possible. All suppliers are screened for negative practices \(ie. no child labour!\) and we always prefer those who go beyond neutral and have a positive impact on the world: B Corps, companies that provide a public Sustainability Report, companies with which we make an Interdependence Agreement and work on a Benefit Project together.  You can read the full document [here](https://docs.google.com/document/d/1SYzhZcqZRUL1iBavracinVK-m7yVPeu5oHkHKtTm6vY/edit?usp=sharing), and you can find more information about negative practices screening in our :m Negative Impact document [here](https://docs.google.com/document/d/1UsdUkp0FPX6VlV8dBshWrIHW_4euQmaLwOWsx5Olza8/edit?usp=sharing).  
-
-
-
-
+We have a company policy whereby we prefer local suppliers wherever possible. All suppliers are screened for negative practices \(ie. no child labour!\) and we always prefer those who go beyond neutral and have a positive impact on the world: B Corps, companies that provide a public Sustainability Report, companies with which we make an Interdependence Agreement and work on a Benefit Project together. You can read the full document [here](https://docs.google.com/document/d/1SYzhZcqZRUL1iBavracinVK-m7yVPeu5oHkHKtTm6vY/edit?usp=sharing), and you can find more information about negative practices screening in our :m Negative Impact document [here](https://docs.google.com/document/d/1UsdUkp0FPX6VlV8dBshWrIHW_4euQmaLwOWsx5Olza8/edit?usp=sharing).
 
 ## Salaries, benefits and leave - here’s what we have to offer
 
@@ -273,6 +272,7 @@ Further, you can claim back travel expenses for journeys to customer offices thr
 Many players in mondora have chosen to publish their salary internally for others to see. As a new employee you can choose if you would also like to publish your salary, and if you wish to see others' salaries. In order to access this information you must join the Slack channel \#salaries. Here you will then find a spreadsheet with salary info and you can add your own if you like.
 
 #### MBO and awards
+
 The company is a place where each of us takes care of the rest. That's why we love the idea of giving a prize to teams instead of individuals. Bonuses are distributed to the whole team who has to share it out in a specific timeframe. If the team is not able to agree on how to share the bonus in the specified time, the whole sum will be used for other projects instead. The idea is to think about the bonus from the perspective of your colleagues and try to understand why it would be essential for them to receive it.
 
 ### Hiring
@@ -306,6 +306,7 @@ After the trial period, termination notice has to be given in writing, both by y
 Once you have handed in your termination notice, you are expected to gradually decrease your workload until the day you leave. During this time you should ensure you close all open activities, or pass them on to a colleague. You will no longer accept new projects or work fully on current projects. This is to ensure that nothing is left unfinished and that a colleague can easily continue the work once you have left.
 
 #### Parachute
+
 We believe that the company is a platform in which everyone can develop their talents. As we value our colleagues inside the company, we also value them when they wish to leave, so we think we should help people leave without to much stress. Our Parachute policy gives everyone the option to return to the company within 12 months of leaving, and receive the same salary. When someone decides to leave we will ask all colleagues to agree to the parachute policy option: as long as 10% of the company workforce is favorable the person leaving will receive a letter in which this option is specified and agreed.
 
 ### Whistleblower Policy
@@ -381,3 +382,4 @@ Honoring one's commitments is a matter of integrity and honesty. For the IT prof
 ### Compliance with the Code
 
 The future of the IT profession depends on both technical and ethical excellence. Not only is it important for mondora professionals to adhere to the principles expressed in this Code, each member should encourage and support adherence by other members.
+
